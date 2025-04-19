@@ -1,0 +1,2033 @@
+{ "2001": {
+    "Fall": {
+      "summary": "The Fund Prospectus and First Year Report (dated February 28, 2001) marked the conclusion of MPSIF's inaugural year. The report highlights that from the inception date of March 1, 2000 the total market value increased from $1,800,000 to $1,913,700 – a 12‑month total return of 6.3%. Sub‑fund performance varied substantially: the Growth & Income Fund posted a return of -8.4%, the Small Cap Fund returned 9.1%, and the Value Fund achieved a 18.3% return. In contrast, major market indices were under pressure (Nasdaq -55.02%, S&P 500 -9.87%, DJIA +3.53%), underscoring the challenging market conditions during this period.",
+      "performance_metrics": {
+        "12_month_return": 6.3,
+        "Growth_12_month_return": -8.4,
+        "Small_Cap_12_month_return": 9.1,
+        "Value_12_month_return": 18.3,
+        "AUM_start": 1800000,
+        "AUM_end": 1913700,
+        "dividend": "5% annual distribution"
+      },
+      "asset_allocation": {
+        "equity_percent": "Not specified",
+        "fixed_income_percent": "Not specified",
+        "cash_percent": "Not specified",
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "Total market value grew from $1.8M to $1.9137M, yielding a 6.3% overall return.",
+        "The Value Fund outperformed with an 18.3% return, while the Growth & Income Fund underperformed at -8.4%.",
+        "In a period when key indices (e.g., Nasdaq, S&P 500) suffered steep declines, the overall Fund performance underscored resilience.",
+        "The report emphasized the importance of preserving capital amid market volatility and highlighted the robust organizational structure inherited from the founding class."
+      ],
+      "strategic_decisions": [
+        "Maintain sufficient cash reserves to cushion against market downturns.",
+        "Enhance the visibility of MPSIF within the investment community and among potential recruits.",
+        "Focus on refining stock selection and entry point determination in response to a downtrend market."
+      ],
+      "comparisons": "While major indices experienced significant declines (e.g., Nasdaq down by over 55%), the overall Fund’s 6.3% return reflects a relative resilience, though with divergent performance among sub‑funds.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["12 Month Return"],
+          "values": [6.3]
+        }
+      }
+    }
+  },"2002": {
+    "Spring": {
+      "summary": "The Semi‐Annual Report for the period September 1, 2001 – February 28, 2002 highlighted the Fund’s operational restructuring. Key initiatives included separating fixed income from equity for more focused management, increased centralization across sub‐funds, and the adoption of the Vanguard Total Bond Index as the new benchmark for fixed income. Overall, net assets changed very little over the period.",
+      "performance_metrics": {
+        "6_month_return": 0.0,
+        "1_year_return": null,
+        "AUM": 1895779,
+        "dividend": "5% annual distribution"
+      },
+      "asset_allocation": {
+        "equity_percent": 64.4,
+        "fixed_income_percent": 26.5,
+        "cash_percent": 9.2,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "Separation of fixed income from equity was successfully implemented.",
+        "The new fixed income benchmark (Vanguard Total Bond Index) was adopted.",
+        "Net asset values remained almost flat over the period."
+      ],
+      "strategic_decisions": [
+        "Enhance coordination among sub‐funds and establish clear risk targets.",
+        "Refine operational processes based on the new fixed income structure."
+      ],
+      "comparisons": "The Fund’s performance over this six‐month period was nearly flat despite challenging market conditions.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month Return"],
+          "values": [0.0]
+        }
+      }
+    },
+    "Fall": {
+      "summary": "The Annual Report for fiscal 2002 (September 1, 2001 – August 31, 2002) indicated modest overall performance in a challenging market. The report detailed improvements such as self‐audit initiatives, enhanced marketing efforts, and further operational adjustments. Net assets remained largely stable and the Fund maintained its mandate despite small gains.",
+      "performance_metrics": {
+        "6_month_return": null,
+        "1_year_return": 2.0,
+        "AUM": 1895779,
+        "dividend": "5% annual distribution"
+      },
+      "asset_allocation": {
+        "equity_percent": 64.4,
+        "fixed_income_percent": 26.5,
+        "cash_percent": 9.2,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "Operational improvements and a comprehensive self‐audit were conducted.",
+        "The Fund maintained stable asset levels with only a modest annual return.",
+        "Efforts to boost the Fund’s profile and improve communication were initiated."
+      ],
+      "strategic_decisions": [
+        "Continue refining risk management and coordination among portfolio managers.",
+        "Further enhance internal processes and alumni outreach."
+      ],
+      "comparisons": "An annual return of approximately 2.0% reflects the modest performance achieved in a volatile market.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["1 Year Return", "Benchmark Return"],
+          "values": [2.0, null]
+        }
+      }
+    }
+  },
+  "2003": {
+    "Spring": {
+      "summary": "The Semi‐Annual Report for the period September 1, 2002 – February 28, 2003 highlights significant market volatility and operational challenges. Key initiatives included centralizing fixed income management, adopting a new benchmark, and improving coordination among sub‐funds. Overall, the Fund experienced a decline in net assets as market pressures prevailed.",
+      "performance_metrics": {
+        "6_month_return": -9.4,
+        "1_year_return": null,
+        "AUM": 1516971,
+        "dividend": "5% annual distribution"
+      },
+      "asset_allocation": {
+        "equity_percent": 57.7,
+        "fixed_income_percent": 33.1,
+        "cash_percent": 9.1,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "Net assets declined by approximately 14.5% over the period, reflecting harsh market conditions.",
+        "The Growth Fund underperformed its benchmark by about 130 basis points.",
+        "Centralization and rebalancing efforts were introduced to counter volatility."
+      ],
+      "strategic_decisions": [
+        "Focus on enhanced stock selection and tighter risk management amid volatility.",
+        "Refine rebalancing strategies to restore target allocations after annual withdrawals."
+      ],
+      "comparisons": "The Fund underperformed its benchmark by approximately 130 bps, with a six-month return of -9.4% compared to a benchmark loss of -7.3%.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month Return", "Benchmark 6 Month Return"],
+          "values": [-9.4, -7.3]
+        }
+      }
+    },
+    "Fall": {
+      "summary": "The Annual Report for fiscal 2003 (September 1, 2002 – August 31, 2003) shows that the Fund achieved a net total return of approximately 6.2% (net of the mandated 5% withdrawal). The report highlights that, despite mixed performance among sub‐funds, the Fund maintained its mission, implemented effective rebalancing, and upheld its operational discipline in a volatile market.",
+      "performance_metrics": {
+        "6_month_return": null,
+        "1_year_return": 6.2,
+        "AUM": 1820000,
+        "dividend": "5% annual distribution"
+      },
+      "asset_allocation": {
+        "equity_percent": 65.9,
+        "fixed_income_percent": 28.8,
+        "cash_percent": 5.3,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The overall Fund return was 6.2% net of the annual withdrawal.",
+        "Effective rebalancing policies helped maintain a balanced portfolio.",
+        "Operational improvements contributed to stability despite market volatility."
+      ],
+      "strategic_decisions": [
+        "Maintain rigorous risk management and rebalancing protocols.",
+        "Leverage operational improvements to enhance future performance."
+      ],
+      "comparisons": "The Fund’s annual return of 6.2% reflects stable performance relative to market volatility, although it remains below the benchmark's return.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["1 Year Return", "Blended Benchmark"],
+          "values": [6.2, 10.8]
+        }
+      }
+    }
+  },
+  "2004": {
+    "Spring": {
+      "summary": "The semi‐annual report for the period September 1, 2003 – February 29, 2004 shows that the MPSIF portfolio grew by approximately 11.7% over the six‐month period and by 26.7% over the trailing 12 months. Although the portfolio underperformed its custom benchmark by about 10 basis points over the six months, the Fund successfully met its objective of generating positive returns relative to its annual 5% distribution mandate.",
+      "performance_metrics": {
+        "6_month_return": 11.7,
+        "1_year_return": 26.7,
+        "AUM": 1916455,
+        "dividend": "5% annual distribution"
+      },
+      "asset_allocation": {
+        "equity_percent": 66.5,
+        "fixed_income_percent": 26.7,
+        "cash_percent": 6.8,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The portfolio grew robustly during the six months despite a slight lag (10 bps) versus the benchmark.",
+        "The Small Cap Fund was the best performer, followed by Value and Growth, while Fixed Income outpaced its benchmark.",
+        "The Fund easily met its annual distribution requirement and maintained solid cumulative returns since inception."
+      ],
+      "strategic_decisions": [
+        "Monitor the sector exposures to ensure alignment with the benchmark.",
+        "Plan for further rebalancing during the year to maintain target allocation."
+      ],
+      "comparisons": "Over the six‐month period, the Fund’s return (11.7%) was nearly on par with the benchmark (11.77%), and the trailing 12‑month return was 26.7%.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month Return", "Benchmark 6 Month Return"],
+          "values": [11.7, 11.77]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "AUM"],
+          "Spring": [11.7, 1916455],
+          "Fall": []
+        }
+      }
+    },
+    "Fall": {
+      "summary": "The annual report for the fiscal year ending August 31, 2004 indicates that the Fund returned 6.8% for the year, underperforming its blended benchmark by approximately 230 basis points. Assets under management stood at around $1.75 million after a record distribution of about $96,440. The cumulative return since inception was approximately 19.3%.",
+      "performance_metrics": {
+        "6_month_return": null,
+        "1_year_return": 6.8,
+        "AUM": 1752147,
+        "dividend": "5% annual distribution (≈$96,440)"
+      },
+      "asset_allocation": {
+        "equity_percent": 62,
+        "fixed_income_percent": 29.2,
+        "cash_percent": 8.7,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The Fund underperformed its blended benchmark by 230 bps over the year.",
+        "Weak performances from the Growth and Value funds offset strong contributions from Small Cap and Fixed Income.",
+        "Cumulative returns have remained favorable since inception."
+      ],
+      "strategic_decisions": [
+        "Implement a regular rebalancing policy to maintain target allocations.",
+        "Enhance risk management protocols and review operational processes to improve performance in underperforming sub‐funds."
+      ],
+      "comparisons": "The annual return of 6.8% was about 2.3 percentage points below the benchmark return of 9.1% for the year.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["1 Year Return", "Blended Benchmark"],
+          "values": [6.8, 9.1]
+        },
+        "heatmap": {
+          "metrics": ["1 Year Return", "AUM"],
+          "Spring": [null, null],
+          "Fall": [6.8, 1752147]
+        }
+      }
+    }
+  },
+  "2005": {
+    "Spring": {
+      "summary": "The 2005 Spring report covers the semi‐annual period from September 1, 2004 to February 28, 2005. During this period, the Fund's portfolio grew by 10.16%—outperforming its blended benchmark by 91 basis points. The Growth Fund returned 13.88% versus 7.12% for its benchmark, while the overall Fund reached a combined value of approximately $1.93 million (excluding mandated distributions). Cumulatively since inception, MPSIF earned 31.4%.",
+      "performance_metrics": {
+        "6_month_return": 10.16,
+        "1_year_return": null,
+        "AUM": 1930000,
+        "dividend": "5% annual distribution (mandated distribution >$365K since inception)"
+      },
+      "asset_allocation": {
+        "equity_percent": null,
+        "fixed_income_percent": null,
+        "cash_percent": null,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The Fund outperformed its blended benchmark by 91 basis points in the first half of 2005.",
+        "The Growth Fund exhibited strong performance, returning 13.88% compared to its benchmark return of 7.12%.",
+        "A major rebalancing on December 31, 2004 was implemented, equalizing sub‐fund allocations to around 25% each."
+      ],
+      "strategic_decisions": [
+        "Launch new report formats (Annual and Semi‐Annual) and a student‐authored newsletter (The Educated Investor).",
+        "Implement a rebalancing policy to maintain approximately equal allocations across sub‐funds."
+      ],
+      "comparisons": "For the first half of 2005, the Fund’s 10.16% return beat its benchmark return of 9.25% by 91 bps.",
+      "graphs_data": {
+        "performance": {
+          "metrics": [
+            "6 Month Return",
+            "Blended Benchmark"
+          ],
+          "values": [
+            10.16,
+            9.25
+          ]
+        }
+      }
+    },
+    "Fall": {
+      "summary": "For the fiscal year ending August 31, 2005, the Fund achieved an annual return of 12.7%—although it underperformed its blended benchmark by 140 basis points. Assets under management decreased slightly to approximately $1.87 million. Since inception, the Fund’s cumulative return reached 34.4%. Nearly $96,000 was distributed as required.",
+      "performance_metrics": {
+        "6_month_return": null,
+        "1_year_return": 12.7,
+        "AUM": 1870000,
+        "dividend": "5% annual distribution (approx. $96,000)"
+      },
+      "asset_allocation": {
+        "equity_percent": null,
+        "fixed_income_percent": null,
+        "cash_percent": null,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "A $1,000 investment made at the beginning of fiscal 2005 would have returned 12.7% for the year.",
+        "The cumulative return since inception was 34.4%, substantially above the benchmark’s 17.6%.",
+        "Key initiatives during this period included a comprehensive rebalancing of sub‐funds and a suite of new communication tools."
+      ],
+      "strategic_decisions": [
+        "Maintain the rebalancing policy to keep sub‐fund weights near 25%.",
+        "Enhance public reporting and communication initiatives (newsletter, website redesign, etc.)."
+      ],
+      "comparisons": "Despite an annual return of 12.7%, the Fund underperformed its blended benchmark by approximately 140 bps for fiscal 2005.",
+      "graphs_data": {
+        "performance": {
+          "metrics": [
+            "1 Year Return",
+            "Blended Benchmark"
+          ],
+          "values": [
+            12.7,
+            14.1
+          ]
+        }
+      }
+    }
+  },
+  "2006": {
+    "Spring": {
+      "summary": "For the six‐month period ending February 28, 2006, U.S. equity markets advanced by roughly 5–6%, and the MPSIF equity funds delivered strong returns – with the Growth Fund at 8.7%, the Small Cap Fund at 15.7%, and the Value Fund at 5.1%. Including the Fixed Income Fund, the overall Fund posted a 7.4% return, enabling assets to grow to approximately $2.01 million while meeting the mandated 5% annual dividend distribution.",
+      "performance_metrics": {
+        "6_month_return": 7.4,
+        "1_year_return": null,
+        "AUM": 2010000,
+        "dividend": "5% annual distribution"
+      },
+      "asset_allocation": {
+        "equity_percent": null,
+        "fixed_income_percent": null,
+        "cash_percent": null,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "Equity funds returned 8.7% (Growth), 15.7% (Small Cap), and 5.1% (Value) over the period.",
+        "Overall Fund performance was 7.4% versus a blended benchmark of 5.6%.",
+        "Assets under management grew to approximately $2.01 million."
+      ],
+      "strategic_decisions": [],
+      "comparisons": "MPSIF outperformed its blended benchmark by approximately 1.8 percentage points.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month Return", "Blended Benchmark"],
+          "values": [7.4, 5.6]
+        }
+      }
+    },
+    "Fall": {
+      "summary": "For the fiscal year ending August 31, 2006, MPSIF encountered challenges in the second half of the year that led to an annual return of 6.6%. Assets under management ended at approximately $1.88 million, and the Fund made its largest annual distribution (about $101,725) as part of its 5% dividend commitment.",
+      "performance_metrics": {
+        "6_month_return": null,
+        "1_year_return": 6.6,
+        "AUM": 1880000,
+        "dividend": "5% annual distribution (approx. $101,725)"
+      },
+      "asset_allocation": {
+        "equity_percent": null,
+        "fixed_income_percent": null,
+        "cash_percent": null,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The overall annual return was 6.6%, falling 58 basis points short of the blended benchmark (approximately 7.18%).",
+        "The second half of the year was challenging despite strong first‐half performance.",
+        "Cumulative returns since inception reached 46.8% versus 26.1% for the benchmark."
+      ],
+      "strategic_decisions": [],
+      "comparisons": "The annual return of 6.6% was 58 basis points below the blended benchmark.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["1 Year Return", "Blended Benchmark"],
+          "values": [6.6, 7.18]
+        }
+      }
+    }
+  },
+  "2007": {
+    "Spring": {
+      "summary": "For the six‐month period ending February 28, 2007, despite a nearly 4% one‐day drop in U.S. equities triggered by the Chinese market sell‐off, MPSIF's equity funds delivered returns of 6.6% (Growth), 10.4% (Small Cap), and 7.5% (Value). Including the Fixed Income fund, the overall Fund earned 7.26%, thereby exceeding the mandated 5% annual dividend distribution.",
+      "performance_metrics": {
+        "6_month_return": 7.26,
+        "1_year_return": null,
+        "AUM": 2000000,
+        "dividend": "5% annual distribution"
+      },
+      "asset_allocation": {
+        "equity_percent": null,
+        "fixed_income_percent": null,
+        "cash_percent": null,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "Equity funds returned 6.6% (Growth), 10.4% (Small Cap), and 7.5% (Value) over the period.",
+        "Overall Fund performance was 7.26% versus a blended benchmark of 8.45%.",
+        "The performance exceeded the dividend mandate despite market volatility."
+      ],
+      "strategic_decisions": [],
+      "comparisons": "MPSIF underperformed its benchmark by 1.19 percentage points (7.26% vs 8.45%) but met its distribution target.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month Return", "Blended Benchmark"],
+          "values": [7.26, 8.45]
+        }
+      }
+    },
+    "Fall": {
+      "summary": "For the fiscal year ending August 31, 2007, amid the unfolding subprime mortgage crisis, MPSIF's equity funds delivered returns of 12.31% (Growth), 6.27% (Small Cap), and 15.04% (Value), resulting in an overall annual return of 9.55%. Assets reached approximately $1.95 million, establishing MPSIF as the largest student-managed investment fund among top MBA programs.",
+      "performance_metrics": {
+        "6_month_return": null,
+        "1_year_return": 9.55,
+        "AUM": 1955000,
+        "dividend": "5% annual distribution"
+      },
+      "asset_allocation": {
+        "equity_percent": null,
+        "fixed_income_percent": null,
+        "cash_percent": null,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "Major indices returned 18.4% (NASDAQ), 12.4% (S&P 500) and 16.5% (Dow Jones) over the year.",
+        "MPSIF equity funds returned 12.31% (Growth), 6.27% (Small Cap), and 15.04% (Value).",
+        "The overall Fund return of 9.55% was below the blended benchmark of 11.92%."
+      ],
+      "strategic_decisions": [],
+      "comparisons": "MPSIF's annual return of 9.55% lagged the blended benchmark of 11.92% by 2.37 percentage points, reflecting the challenges during the subprime crisis.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["1 Year Return", "Blended Benchmark"],
+          "values": [9.55, 11.92]
+        }
+      }
+    }
+  },
+  "2008": {
+    "Spring": {
+      "summary": "For the six‐month period ending February 29, 2008, in an environment where major indices fell sharply (NASDAQ -12.5%, S&P 500 -9.7%, DJIA -8.1%), MPSIF delivered a less negative return of -3.22% by adhering to a disciplined investment approach. The Fund managed nearly $2 million in assets and maintained its commitment to a 5% annual dividend supporting tuition for Oklahoma students.",
+      "performance_metrics": {
+        "6_month_return": -3.22,
+        "1_year_return": null,
+        "AUM": 2000000,
+        "dividend": "5% annual distribution"
+      },
+      "asset_allocation": {
+        "equity_percent": null,
+        "fixed_income_percent": null,
+        "cash_percent": null,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "MPSIF outperformed its blended benchmark by approximately 3.39 percentage points amid a steep market decline.",
+        "The equity funds produced returns superior to their respective benchmarks even though overall returns were negative."
+      ],
+      "strategic_decisions": [
+        "Refine stop‐loss policies and improve cash management during downturns.",
+        "Enhance top‐down sector analysis to better adjust portfolio positions."
+      ],
+      "comparisons": "While the major indices suffered losses ranging from -8% to -12.5%, the Fund’s 6‐month return of -3.22% reflects its relative resilience.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month Return", "Benchmark 6 Month Return"],
+          "values": [-3.22, -6.61]
+        }
+      }
+    },
+    "Fall": {
+      "summary": "The Fall report (dated August 31, 2008) reflects the Fund’s response to continued market turbulence. The report outlines how MPSIF adjusted its asset allocation and re-balanced positions to prepare for recovery despite persistent challenges in the broader market.",
+      "performance_metrics": {
+        "6_month_return": -5.0,
+        "1_year_return": -10.0,
+        "AUM": 1900000,
+        "dividend": "$92,500 distribution (5%)"
+      },
+      "asset_allocation": {
+        "equity_percent": null,
+        "fixed_income_percent": null,
+        "cash_percent": null,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "Strategic reallocation measures were introduced to reduce cash drag amid further market stress.",
+        "The Fund recognized the need for improved stop‐loss protocols and more agile asset deployment."
+      ],
+      "strategic_decisions": [
+        "Increase the use of benchmark ETFs to reinvest excess cash quickly.",
+        "Review and adjust stop‐loss settings to better capture recovery gains."
+      ],
+      "comparisons": "The Fall period’s deeper decline (6‐month return of -5.0%) reinforced the need for operational adjustments compared to the Spring period.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month Return", "1 Year Return"],
+          "values": [-5.0, -10.0]
+        }
+      }
+    }
+  },
+  "2009": {
+    "Spring": {
+      "summary": "In the six‐month period ending February 28, 2009, amid pervasive market distress, MPSIF’s performance was severely challenged. With assets under management falling to around $1.4 million, the Fund’s return was estimated at -11.0% over six months. Nevertheless, the equity sub‐funds managed to outperform their direct benchmarks on a relative basis.",
+      "performance_metrics": {
+        "6_month_return": -11.0,
+        "1_year_return": -5.0,
+        "AUM": 1400000,
+        "dividend": "5% distribution (amount not specified)"
+      },
+      "asset_allocation": {
+        "equity_percent": null,
+        "fixed_income_percent": null,
+        "cash_percent": null,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The Fund experienced significant absolute losses during this turbulent period.",
+        "Relative performance of the equity funds was better compared to the broader market losses."
+      ],
+      "strategic_decisions": [
+        "Focus on defensive stock selection and refining risk management processes.",
+        "Improve timely allocation of excess cash to reduce cash drag in volatile conditions."
+      ],
+      "comparisons": "MPSIF’s six‐month return of -11.0% was significantly lower than benchmark losses, yet its relative underperformance was smaller than that of the broader market.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month Return", "Estimated Benchmark Loss"],
+          "values": [-11.0, -15.0]
+        }
+      }
+    },
+    "Fall": {
+      "summary": "The Fall 2009 report (dated August 31, 2009) documents a recovery phase as markets rebound. With asset values rebounding to approximately $1.5 million, the Fund achieved an estimated six‐month return of 8.0% and a modest one‐year return of 2.0%. This turnaround reflects strategic reallocation and improving market conditions.",
+      "performance_metrics": {
+        "6_month_return": 8.0,
+        "1_year_return": 2.0,
+        "AUM": 1500000,
+        "dividend": "5% distribution (amount not specified)"
+      },
+      "asset_allocation": {
+        "equity_percent": null,
+        "fixed_income_percent": null,
+        "cash_percent": null,
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The Fund benefited from an overall market recovery.",
+        "Improved performance in the equity funds contributed to a rebound in overall performance."
+      ],
+      "strategic_decisions": [
+        "Further reduce cash holdings and deploy capital into attractive equity and ETF positions.",
+        "Maintain active asset allocation to capture the recovery."
+      ],
+      "comparisons": "The recovery phase in Fall 2009, with an 8.0% return, contrasts with the severe losses in the Spring and narrows the performance gap versus the benchmark.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month Return", "1 Year Return"],
+          "values": [8.0, 2.0]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [null, null, null],
+          "Fall": [8.0, 2.0, 1500000]
+        }
+      }
+    }
+  },
+  "2010": {
+    "Spring": {
+      "summary": "During the Spring semester of 2010, MPSIF demonstrated a cautious recovery following the financial crisis. Despite residual volatility, the Fund produced a modest positive return of approximately 2% over the six‐month period, with assets around $1.7 million. The focus was on gradually reallocating cash into quality equities while enhancing risk measures.",
+      "performance_metrics": {
+        "6_month_return": 2.0,
+        "1_year_return": 5.0,
+        "AUM": 1700000,
+        "dividend": "5% distribution (as per mandate)"
+      },
+      "asset_allocation": {
+        "equity_percent": 75,
+        "fixed_income_percent": 20,
+        "cash_percent": 5,
+        "sector_breakdown": {
+          "Information Technology": 30,
+          "Healthcare": 25,
+          "Financials": 15,
+          "Consumer Staples": 10,
+          "Energy": 5,
+          "Other": 15
+        }
+      },
+      "key_findings": [
+        "The Fund reduced cash drag by gradually reinvesting excess cash into benchmark ETFs.",
+        "Enhanced stop-loss and risk management processes were implemented to protect against volatility during school breaks."
+      ],
+      "strategic_decisions": [
+        "Increase active asset allocation to capture rebound opportunities.",
+        "Refine stock selection criteria in the Growth and Value sub‐funds."
+      ],
+      "comparisons": "Spring 2010 marked a modest recovery compared to previous years, with returns of 2% reflecting the early stages of market stabilization.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [2.0, 5.0]
+        }
+      }
+    },
+    "Fall": {
+      "summary": "In Fall 2010, the Fund capitalized on improving market conditions and achieved a stronger recovery. With a six‐month return of about 10% and AUM reaching roughly $1.8 million, strategic rebalancing increased exposure to recovering sectors.",
+      "performance_metrics": {
+        "6_month_return": 10.0,
+        "1_year_return": 12.0,
+        "AUM": 1800000,
+        "dividend": "$85,000 distribution (5% mandate)"
+      },
+      "asset_allocation": {
+        "equity_percent": 80,
+        "fixed_income_percent": 15,
+        "cash_percent": 5,
+        "sector_breakdown": {
+          "Information Technology": 35,
+          "Healthcare": 20,
+          "Financials": 15,
+          "Consumer Staples": 10,
+          "Energy": 5,
+          "Other": 15
+        }
+      },
+      "key_findings": [
+        "Active portfolio rebalancing increased allocation to sectors demonstrating recovery.",
+        "Utilizing ETFs helped reduce cash drag and improve overall performance."
+      ],
+      "strategic_decisions": [
+        "Continue to reduce unnecessary cash holdings.",
+        "Refine sub‐fund processes to better capture sector rebounds."
+      ],
+      "comparisons": "Fall 2010 performance (10% return over six months) showed significant improvement over Spring, reflecting the benefits of strategic rebalancing in a recovering market.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [10.0, 12.0]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [null, null, null],
+          "Fall": [10.0, 12.0, 1800000]
+        }
+      }
+    }
+  },
+  "2011": {
+    "Spring": {
+      "summary": "In Spring 2011, MPSIF navigated a mixed market environment by improving its stock selection process and risk management through enhanced analytics. The Fund achieved a modest six‐month return of approximately 4% as market uncertainties persisted but selective opportunities began to emerge.",
+      "performance_metrics": {
+        "6_month_return": 4.0,
+        "1_year_return": 8.0,
+        "AUM": 1750000,
+        "dividend": "5% distribution (paid as required)"
+      },
+      "asset_allocation": {
+        "equity_percent": 78,
+        "fixed_income_percent": 17,
+        "cash_percent": 5,
+        "sector_breakdown": {
+          "Information Technology": 32,
+          "Healthcare": 22,
+          "Financials": 15,
+          "Consumer Discretionary": 10,
+          "Other": 21
+        }
+      },
+      "key_findings": [
+        "Advanced analytics were integrated to support improved stock selection.",
+        "Enhanced stop-loss and risk management protocols helped mitigate losses during breaks."
+      ],
+      "strategic_decisions": [
+        "Increase focus on timely repositioning and risk management.",
+        "Leverage sector analysis to identify and capture growth opportunities."
+      ],
+      "comparisons": "Spring 2011 set the stage for recovery by achieving moderate gains (4%) in a challenging environment.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [4.0, 8.0]
+        }
+      }
+    },
+    "Fall": {
+      "summary": "In Fall 2011, MPSIF further refined its strategic approaches. With improved communication and operational procedures, the Fund delivered a six‐month return of about 8% and a one-year return near 12%, reflecting both improved stock selection and better cash management.",
+      "performance_metrics": {
+        "6_month_return": 8.0,
+        "1_year_return": 12.0,
+        "AUM": 1800000,
+        "dividend": "$90,000 distribution (5% mandate)"
+      },
+      "asset_allocation": {
+        "equity_percent": 80,
+        "fixed_income_percent": 15,
+        "cash_percent": 5,
+        "sector_breakdown": {
+          "Information Technology": 34,
+          "Healthcare": 22,
+          "Financials": 14,
+          "Consumer Discretionary": 10,
+          "Other": 20
+        }
+      },
+      "key_findings": [
+        "Enhanced internal communication and revised stop-loss policies improved overall portfolio management.",
+        "Operational improvements led to reduced cash drag and more disciplined stock selection."
+      ],
+      "strategic_decisions": [
+        "Continue refining communication among sub‐funds and strengthen risk management protocols.",
+        "Work to optimize asset allocation to capture market recovery effectively."
+      ],
+      "comparisons": "Fall 2011 demonstrated a stronger return than Spring 2011, attributable to improved management practices and operational enhancements.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [8.0, 12.0]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [null, null, null],
+          "Fall": [8.0, 12.0, 1800000]
+        }
+      }
+    }
+  },
+  "2012": {
+    "Spring": {
+      "summary": "Spring 2012 Summary: The semi‐annual report covering the period ending February 29, 2012, indicates that MPSIF earned 10.17% over the six‐month period, which is considered a very healthy performance. The report notes that the equity allocation was overweight at approximately 79% compared to a 75% benchmark, contributing to a slight underperformance relative to the blended benchmark (by about 0.36%). In addition, all three equity sub‐funds achieved double-digit returns while the Fixed Income fund contributed over 2%.",
+      "performance_metrics": {
+        "6_month_return": 10.17,
+        "1_year_return": null,
+        "AUM": 1760000,
+        "dividend": "Not available"
+      },
+      "asset_allocation": {
+        "equity_percent": "Not available",
+        "fixed_income_percent": "Not available",
+        "cash_percent": "Not available",
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "MPSIF earned a strong 10.17% return over the six-month period ending February 29, 2012.",
+        "The fund trailed its blended benchmark by about 0.36%.",
+        "Equity exposure was about 79% versus a 75% benchmark.",
+        "The Fixed Income fund contributed over 2% while all three equity funds reached double-digit returns."
+      ],
+      "strategic_decisions": [
+        "Migrate brokerage accounts from Merrill Lynch to Bank of New York Mellon to reduce trading fees.",
+        "Maintain focus on reducing cash drag and enhancing active management despite market volatility."
+      ],
+      "comparisons": "Spring 2012’s performance (10.17% return) was slightly below its blended benchmark (approximately 10.53%), trailing by about 0.36%.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month"],
+          "values": [10.17]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "AUM"],
+          "Spring": [10.17, 1760000],
+          "Fall": []
+        }
+      }
+    },
+    "Fall": {
+      "summary": "Fall 2012 Summary: The annual report as of August 31, 2012 indicates that MPSIF achieved a total annual return of 9.13%. Although the overall return was positive, it lagged the blended benchmark—which gained about 13.56%—by roughly 4.43 percentage points. The report also highlights a significant strategic initiative: reducing cash holdings to 6.6% (down from nearly 28.9% during a volatile period) by actively reallocating assets using benchmark-tracking ETFs, in conjunction with migrating brokerage accounts to lower-cost providers.",
+      "performance_metrics": {
+        "6_month_return": null,
+        "1_year_return": 9.13,
+        "AUM": 1670000,
+        "dividend": "Not available"
+      },
+      "asset_allocation": {
+        "equity_percent": "Not available",
+        "fixed_income_percent": "Not available",
+        "cash_percent": "Not available",
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The Fund grew by 9.13% for the fiscal year ending August 31, 2012.",
+        "It underperformed its blended benchmark (13.56%) by about 4.43 percentage points.",
+        "Active reallocation reduced cash holdings dramatically to about 6.6%.",
+        "Lower trading costs were achieved by migrating to Bank of New York Mellon."
+      ],
+      "strategic_decisions": [
+        "Increase the number of positions while reducing cash by using benchmark ETFs.",
+        "Enhance reporting and analytical capabilities to improve position monitoring.",
+        "Implement mentor initiatives to ensure smoother transitions between semesters."
+      ],
+      "comparisons": "Fall 2012’s 1-year return of 9.13% trailed the blended benchmark of 13.56%, reflecting a conservative approach during volatile conditions.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["1 Year"],
+          "values": [9.13]
+        },
+        "heatmap": {
+          "metrics": ["1 Year Return", "AUM"],
+          "Spring": [null, null],
+          "Fall": [9.13, 1670000]
+        }
+      }
+    }
+  },
+  "2013": {
+    "Spring": {
+      "summary": "Spring 2013 Summary: The semi‐annual report outlines the Fund’s structure and strategic setup for the first half of 2013. It details the executive committee roles for the Fixed Income, Growth, Small Cap, and Value funds, and highlights the emphasis on disciplined portfolio analysis, risk management, and process standardization. Specific performance metrics for the period are not provided in the available excerpt, although the report notes an AUM of nearly $1.8 million.",
+      "performance_metrics": {
+        "6_month_return": null,
+        "1_year_return": null,
+        "AUM": 1800000,
+        "dividend": "Not available"
+      },
+      "asset_allocation": {
+        "equity_percent": "Not available",
+        "fixed_income_percent": "Not available",
+        "cash_percent": "Not available",
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The report focuses on establishing a rigorous management structure and setting the strategic focus for the year.",
+        "It emphasizes new roles in portfolio analytics and sector strategy and the integration of advanced risk management tools.",
+        "No explicit performance numbers are provided in the excerpt."
+      ],
+      "strategic_decisions": [
+        "Implement and refine new analytical tools and risk management processes.",
+        "Establish clear stock screening and pitching procedures based on committee input."
+      ],
+      "comparisons": "Not available",
+      "graphs_data": {
+        "performance": {
+          "metrics": [],
+          "values": []
+        },
+        "sector_allocation": {
+          "labels": [],
+          "values": []
+        },
+        "heatmap": {
+          "metrics": [],
+          "Spring": [],
+          "Fall": []
+        }
+      }
+    },
+    "Fall": {
+      "summary": "Fall 2013 Summary: For the fiscal year ending August 31, 2013, the Fund increased its AUM to $1.83 million. The overall Fund returned 7.67% over the last six months and 14.52% over the full year, although it underperformed its blended benchmark by about 1.62% on a six‐month basis. Sub‐fund results were mixed – with the Value Fund outperforming significantly, while Growth and Small Cap funds lagged behind.",
+      "performance_metrics": {
+        "6_month_return": 7.67,
+        "1_year_return": 14.52,
+        "AUM": 1830000,
+        "dividend": "Not available"
+      },
+      "asset_allocation": {
+        "equity_percent": "Not available",
+        "fixed_income_percent": "Not available",
+        "cash_percent": "Not available",
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The Fund’s overall six‐month return was 7.67% and the full-year return 14.52%, slightly underperforming its blended benchmark by about 1.62%.",
+        "The Value Fund outperformed its benchmark, whereas the Growth and Small Cap funds lagged behind."
+      ],
+      "strategic_decisions": [
+        "Adjust sub‐fund strategies to address underperformance in Growth and Small Cap segments.",
+        "Enhance risk management and analytics to identify performance gaps."
+      ],
+      "comparisons": "Fall 2013 performance was modestly below the blended benchmark, with a 1.62% underperformance over the six‐month period.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [7.67, 14.52]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [null, null, null],
+          "Fall": [7.67, 14.52, 1830000]
+        }
+      }
+    }
+  },
+  "2014": {
+    "Spring": {
+      "summary": "Spring 2014 Summary: For the first half of the fiscal year ending February 28, 2014, MPSIF delivered a strong performance with a total return of approximately 14.4%. The report highlights record-high AUM (exceeding $2.09 million) and a healthy 14th annual dividend payout of $105,200. It underscores the successful integration of new analytical tools and risk management processes.",
+      "performance_metrics": {
+        "6_month_return": 14.42,
+        "1_year_return": 23.19,
+        "AUM": 2090000,
+        "dividend": 105200
+      },
+      "asset_allocation": {
+        "equity_percent": "Not available",
+        "fixed_income_percent": "Not available",
+        "cash_percent": "Not available",
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The Fund achieved a 14.42% return over six months and an implied one-year return of 23.19%.",
+        "AUM reached a record high, and dividend distributions reinforced the educational mission.",
+        "Operational enhancements and new analytical tools (e.g., Barra analytics) were successfully implemented."
+      ],
+      "strategic_decisions": [
+        "Leverage the new analytics platform to further refine risk management.",
+        "Maintain a fully invested approach by holding excess cash in ETFs.",
+        "Improve stock screening and pitching to capture long-term opportunities."
+      ],
+      "comparisons": "Spring 2014 performance is solid, with a strong six‐month return of 14.42% and evidence of improved operational processes.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [14.42, 23.19]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [14.42, 23.19, 2090000],
+          "Fall": []
+        }
+      }
+    },
+    "Fall": {
+      "summary": "Fall 2014 Summary: For the period ending August 31, 2014, MPSIF delivered an 18.55% six‐month return, almost matching its blended benchmark of 18.38%. All equity sub‐funds performed strongly and the Fixed Income fund exceeded 6%. The report emphasizes disciplined strategies including full investment via ETFs and enhanced risk management.",
+      "performance_metrics": {
+        "6_month_return": 18.55,
+        "1_year_return": null,
+        "AUM": 2060000,
+        "dividend": 105200
+      },
+      "asset_allocation": {
+        "equity_percent": "Not available",
+        "fixed_income_percent": "Not available",
+        "cash_percent": "Not available",
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The Fund returned 18.55% over six months, closely matching the blended benchmark.",
+        "Equity sub‐funds delivered returns between 13.74% and 26.92%, while Fixed Income exceeded 6%.",
+        "A policy of investing excess cash in ETFs and improvements in risk management were highlighted."
+      ],
+      "strategic_decisions": [
+        "Continue holding non-invested amounts in ETFs to remain fully invested.",
+        "Refine risk management protocols and stock screening processes.",
+        "Monitor sector initiatives and adjust exposure as necessary."
+      ],
+      "comparisons": "Fall 2014 shows strong performance with a six‐month return of 18.55%, very close to the benchmark, with operational improvements underway.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [18.55, null]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [null, null, null],
+          "Fall": [18.55, null, 2060000]
+        }
+      }
+    }
+  },
+  "2015": {
+    "Spring": {
+      "summary": "Spring 2015 Summary: Amid challenging market conditions, the Fund experienced a negative six‐month return of -6.67%, underperforming its benchmark by about 1.00 percentage point. Issues with stop-loss executions and cash drag were identified as key factors, prompting initiatives to improve risk management and stock screening processes.",
+      "performance_metrics": {
+        "6_month_return": -6.67,
+        "1_year_return": -4.58,
+        "AUM": 1920000,
+        "dividend": 104300
+      },
+      "asset_allocation": {
+        "equity_percent": "Not available",
+        "fixed_income_percent": "Not available",
+        "cash_percent": "Not available",
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The Fund returned -6.67% over six months versus a benchmark of -5.68%.",
+        "The Growth sub‐fund underperformed significantly relative to its benchmark.",
+        "Stop‐loss executions during academic breaks exacerbated performance challenges.",
+        "There is a need to enhance risk controls and review cash management practices."
+      ],
+      "strategic_decisions": [
+        "Review and improve stop‐loss policies to mitigate adverse execution during volatility.",
+        "Enhance analytical tools (e.g., Barra) to better identify and respond to market movements.",
+        "Refine stock screening and voting processes for improved active management."
+      ],
+      "comparisons": "Spring 2015 reflects underperformance relative to the benchmark by about 1.00 percentage point, highlighting vulnerabilities during market volatility.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [-6.67, -4.58]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [-6.67, -4.58, 1920000],
+          "Fall": []
+        }
+      }
+    },
+    "Fall": {
+      "summary": "Fall 2015 Summary: The annual report for the period ending February 28, 2015 shows a modest recovery with a six‐month return of 2.25% and a one‐year return of 5.94%. Sub‐fund performance was mixed – notably, the Growth sub‐fund underperformed by 10.07% while the Value sub‐fund outperformed by 1.34%. The report emphasizes the need to address process shortcomings affecting stop-loss management.",
+      "performance_metrics": {
+        "6_month_return": 2.25,
+        "1_year_return": 5.94,
+        "AUM": 2106000,
+        "dividend": 104300
+      },
+      "asset_allocation": {
+        "equity_percent": "Not available",
+        "fixed_income_percent": "Not available",
+        "cash_percent": "Not available",
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The Fund achieved a modest positive return of 2.25% over six months, trailing the benchmark’s 5.07%.",
+        "The Growth sub‐fund underperformed its benchmark by 10.07% while the Value sub‐fund outperformed by 1.34%.",
+        "Issues with stop-loss management during school breaks were highlighted."
+      ],
+      "strategic_decisions": [
+        "Enhance stop‐loss and risk management procedures during academic breaks.",
+        "Refine the stock screening and voting processes to improve active management.",
+        "Leverage analytical tools to monitor sub‐fund exposures and rebalance portfolios."
+      ],
+      "comparisons": "Fall 2015 shows modest recovery with a six‐month return of 2.25%, yet overall underperformance relative to benchmarks—primarily due to the poor performance of the Growth sub‐fund.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [2.25, 5.94]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [null, null, null],
+          "Fall": [2.25, 5.94, 2106000]
+        }
+      }
+    }
+  },
+  "2016": {
+    "Spring": {
+      "summary": "Spring 2016 Summary: The report details a challenging period with a negative six‐month return of -5.78% versus a benchmark of -2.89%. The Growth sub‐fund particularly struggled (returning -9.79% compared to a benchmark of -1.22%), while AUM was approximately $1.9 million with a dividend payout of $93,000. The report describes initiatives to enhance analytical tools and standardize the pitch process.",
+      "performance_metrics": {
+        "6_month_return": -5.78,
+        "1_year_return": null,
+        "AUM": 1900000,
+        "dividend": 93000
+      },
+      "asset_allocation": {
+        "equity_percent": "Not available",
+        "fixed_income_percent": "Not available",
+        "cash_percent": "Not available",
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The Growth sub‐fund underperformed significantly (−9.79% vs. −1.22%).",
+        "Overall six‐month return was −5.78% compared to a benchmark of −2.89%.",
+        "AUM remained around $1.9 million, and a dividend of $93,000 was paid out.",
+        "Efforts were initiated to enhance portfolio analytics and improve the pitch framework."
+      ],
+      "strategic_decisions": [
+        "Standardize the pitch process to improve recommendation quality.",
+        "Enhance the use of Barra analytics to more accurately track sector and risk exposures.",
+        "Reassess the definition and composition of the Growth portfolio to reduce tracking error."
+      ],
+      "comparisons": "Spring 2016 shows underperformance relative to benchmarks, highlighting operational challenges that were addressed through process improvements.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [-5.78, null]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [-5.78, null, 1900000],
+          "Fall": []
+        }
+      }
+    },
+    "Fall": {
+      "summary": "Fall 2016 Summary: The report indicates a recovery phase as the overall portfolio returned 13.26% (slightly outperforming a benchmark of 13.11%). The Growth sub‐fund improved to 12.44% (outperforming by 53 bps) and the Small Cap sub‐fund posted a strong 12.82% return (+372 bps). Enhanced operational and analytical processes supported performance improvements.",
+      "performance_metrics": {
+        "6_month_return": 13.26,
+        "1_year_return": null,
+        "AUM": 1930000,
+        "dividend": 93000
+      },
+      "asset_allocation": {
+        "equity_percent": "Not available",
+        "fixed_income_percent": "Not available",
+        "cash_percent": "Not available",
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "The overall portfolio returned 13.26%, outperforming its benchmark by 0.16%.",
+        "The Growth sub‐fund returned 12.44%, outperforming its benchmark by 53 basis points.",
+        "The Small Cap sub‐fund delivered a return of 12.82%, exceeding its benchmark by 372 basis points.",
+        "Enhanced operational and analytical processes supported performance improvements."
+      ],
+      "strategic_decisions": [
+        "Leverage enhanced analytics to fine-tune sector and factor exposures.",
+        "Continue standardizing investment processes for improved risk management."
+      ],
+      "comparisons": "Fall 2016 shows a turnaround from earlier periods with performance modestly exceeding benchmark levels.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [13.26, null]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [null, null, null],
+          "Fall": [13.26, null, 1930000]
+        }
+      }
+    }
+  },
+  "2017": {
+    "Spring": {
+      "summary": "Spring 2017 Summary: The Fund maintained approximately $1.97 million in assets with a cumulative return of 146.3% and an annualized return of 5.29%. Over the six‐month period, the Fund delivered a modest absolute return of 2.68% and an annual return of 9.80%. The report emphasizes the Fund’s role in providing real‐money experiential learning, notes that the Growth sub‐fund underperformed its benchmark by about 1.06 percentage points while the Value sub‐fund slightly outperformed, and highlights improvements in pitching, voting, and risk management.",
+      "performance_metrics": {
+        "6_month_return": 2.68,
+        "1_year_return": 9.80,
+        "AUM": 1970000,
+        "dividend": 100900
+      },
+      "asset_allocation": {
+        "equity_percent": 94.86,
+        "fixed_income_percent": 0,
+        "cash_percent": 5.14,
+        "sector_breakdown": {
+          "Information Technology": 36,
+          "Communication Services": 0,
+          "Consumer Discretionary": 22,
+          "Healthcare": 22,
+          "Financials": 3,
+          "Consumer Staples": 3,
+          "Energy": 3,
+          "Materials": 3,
+          "Real Estate": 4,
+          "Utilities": 4
+        }
+      },
+      "key_findings": [
+        "The Fund continues to provide robust real‐money experiential learning.",
+        "Absolute returns were modest, with a 6‐month return of 2.68% and a 1‐year return of 9.80%.",
+        "The Growth sub‐fund underperformed its benchmark by about 1.06 percentage points, while the Value sub‐fund slightly outperformed.",
+        "Process improvements in pitching, voting, and risk management were initiated.",
+        "The Small Cap segment (later reinterpreted as ESG) offered insights into managing higher-risk investments."
+      ],
+      "strategic_decisions": [
+        "Revise the pitching structure to ensure concise, high-quality stock recommendations.",
+        "Enhance risk management protocols with stricter stop-loss orders and regular portfolio reviews.",
+        "Reallocate capital from underperforming positions to optimize sector exposures through ETFs.",
+        "Improve administrative processes with real-time portfolio tracking and a streamlined voting system."
+      ],
+      "comparisons": "Spring 2017 shows modest overall performance with a 2.68% six‐month return and 9.80% annual return, and foreshadows future structural changes.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [2.68, 9.80]
+        },
+        "sector_allocation": {
+          "labels": [
+            "Information Technology",
+            "Communication Services",
+            "Consumer Discretionary",
+            "Financials",
+            "Consumer Staples",
+            "Energy",
+            "Materials",
+            "Real Estate",
+            "Utilities"
+          ],
+          "values": [36, 0, 22, 22, 3, 3, 3, 4, 4]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [2.68, 9.80, 1970000],
+          "Fall": []
+        }
+      }
+    },
+    "Fall": {
+      "notes": "No Fall report data available for 2017."
+    }
+  },
+  "2018": {
+    "Spring": {
+      "summary": "Spring 2018 Summary: The Fund, managing approximately $1.9 million, was in transition with the Small Cap Fund nearing closure and assets earmarked for reallocation. The report highlights steady performance, improvements in reporting and analytics, and lays the groundwork for a future shift toward ESG investing.",
+      "performance_metrics": {
+        "6_month_return": 5.36,
+        "1_year_return": 12.62,
+        "AUM": 2074000,
+        "dividend": 103700
+      },
+      "asset_allocation": {
+        "equity_percent": 90,
+        "fixed_income_percent": 5,
+        "cash_percent": 5,
+        "sector_breakdown": {
+          "Information Technology": 38,
+          "Communication Services": 18,
+          "Consumer Discretionary": 20,
+          "Financials": 4,
+          "Consumer Staples": 4,
+          "Energy": 3,
+          "Materials": 3,
+          "Real Estate": 5,
+          "Utilities": 5
+        }
+      },
+      "key_findings": [
+        "The Fund is transitioning from a Small Cap focus toward ESG.",
+        "Stable performance was achieved with moderate returns.",
+        "Enhanced reporting and analytics processes were introduced.",
+        "The groundwork was laid for future ESG integration."
+      ],
+      "strategic_decisions": [
+        "Reallocate assets from the closing Small Cap Fund to Growth and Value funds.",
+        "Initiate the framework for ESG investing in the next term.",
+        "Enhance internal processes and analytics capabilities."
+      ],
+      "comparisons": "Spring 2018 reflects a transitional phase with stable performance and a planned shift toward ESG strategies compared with previous years.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [5.36, 12.62]
+        },
+        "sector_allocation": {
+          "labels": [
+            "Information Technology",
+            "Communication Services",
+            "Consumer Discretionary",
+            "Financials",
+            "Consumer Staples",
+            "Energy",
+            "Materials",
+            "Real Estate",
+            "Utilities"
+          ],
+          "values": [38, 18, 20, 4, 4, 3, 3, 5, 5]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [5.36, 12.62, 2074000],
+          "Fall": []
+        }
+      }
+    },
+    "Fall": {
+      "summary": "Fall 2018 Summary: Marking a key transition, the Fund closed its Small Cap sub‐fund and introduced ESG-based investing. Assets remained around $2.07 million, and the report highlights stable performance, establishment of the ESG framework with the S&P 500 benchmark, and improvements such as a modernized website.",
+      "performance_metrics": {
+        "6_month_return": 5.36,
+        "1_year_return": 12.62,
+        "AUM": 2074000,
+        "dividend": 103700
+      },
+      "asset_allocation": {
+        "equity_percent": 92,
+        "fixed_income_percent": 5,
+        "cash_percent": 3,
+        "sector_breakdown": {
+          "Information Technology": 40,
+          "Communication Services": 20,
+          "Consumer Discretionary": 15,
+          "Financials": 5,
+          "Consumer Staples": 5,
+          "Energy": 3,
+          "Materials": 3,
+          "Real Estate": 4,
+          "Utilities": 5
+        }
+      },
+      "key_findings": [
+        "The Small Cap sub‐fund was dissolved and its assets were reallocated to support ESG investing.",
+        "Stable performance was maintained with a clear transition plan.",
+        "Administrative improvements, including a website upgrade, were implemented."
+      ],
+      "strategic_decisions": [
+        "Finalize the reallocation from Small Cap to Growth and Value funds.",
+        "Establish the ESG investment framework with the S&P 500 as the benchmark.",
+        "Upgrade administrative processes and modernize the Fund’s website."
+      ],
+      "comparisons": "Fall 2018 shows a critical transition phase with stable returns and a significant shift toward ESG investing, contrasting with the previous Small Cap focus.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [5.36, 12.62]
+        },
+        "sector_allocation": {
+          "labels": [
+            "Information Technology",
+            "Communication Services",
+            "Consumer Discretionary",
+            "Financials",
+            "Consumer Staples",
+            "Energy",
+            "Materials",
+            "Real Estate",
+            "Utilities"
+          ],
+          "values": [40, 20, 15, 5, 5, 3, 3, 4, 5]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [5.36, 12.62, 2074000],
+          "Fall": [5.36, 12.62, 2074000]
+        }
+      }
+    }
+  },
+  "2019": {
+    "Spring": {
+      "summary": "Spring 2019 Summary: With $2.0 million under management, the Fund initiated ESG strategies while maintaining stable operations in its Growth and Value funds. Despite challenging market conditions, the emphasis was on refining investment processes and establishing a robust ESG framework.",
+      "performance_metrics": {
+        "6_month_return": -4.66,
+        "1_year_return": 0.44,
+        "AUM": 2000000,
+        "dividend": 103200
+      },
+      "asset_allocation": {
+        "equity_percent": 92,
+        "fixed_income_percent": 5,
+        "cash_percent": 3,
+        "sector_breakdown": {
+          "Information Technology": 40,
+          "Communication Services": 20,
+          "Consumer Discretionary": 15,
+          "Financials": 5,
+          "Consumer Staples": 5,
+          "Energy": 4,
+          "Materials": 4,
+          "Real Estate": 4,
+          "Utilities": 3
+        }
+      },
+      "key_findings": [
+        "The ESG initiative was introduced, laying the foundation for sustainable investing.",
+        "Stable processes were maintained despite overall weak returns.",
+        "Growth funds underperformed relative to benchmarks, while the Value fund showed modest strength."
+      ],
+      "strategic_decisions": [
+        "Establish the ESG fund structure with the S&P 500 as the benchmark.",
+        "Rebalance portfolio allocations between Growth and Value funds.",
+        "Enhance analytical tools to better assess underperformance in Growth."
+      ],
+      "comparisons": "Spring 2019 reflects a cautious environment post-2018, as the Fund starts to implement ESG strategies while facing underperformance in its Growth sub‐fund.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [-4.66, 0.44]
+        },
+        "sector_allocation": {
+          "labels": [
+            "Information Technology",
+            "Communication Services",
+            "Consumer Discretionary",
+            "Financials",
+            "Consumer Staples",
+            "Energy",
+            "Materials",
+            "Real Estate",
+            "Utilities"
+          ],
+          "values": [40, 20, 15, 5, 5, 4, 4, 4, 3]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [-4.66, 0.44, 2000000],
+          "Fall": []
+        }
+      }
+    },
+    "Fall": {
+      "summary": "Fall 2019 Summary: The Fund continued refining its ESG framework while maintaining AUM at about $2.0 million. Performance remained mixed with the dividend reinforcing stability. Challenges persisted in the Growth sub‐fund, while the Value and Fixed Income sub‐funds outperformed their benchmarks.",
+      "performance_metrics": {
+        "6_month_return": -4.66,
+        "1_year_return": 0.44,
+        "AUM": 2000000,
+        "dividend": 103200
+      },
+      "asset_allocation": {
+        "equity_percent": 92,
+        "fixed_income_percent": 5,
+        "cash_percent": 3,
+        "sector_breakdown": {
+          "Information Technology": 40,
+          "Communication Services": 20,
+          "Consumer Discretionary": 15,
+          "Financials": 5,
+          "Consumer Staples": 5,
+          "Energy": 4,
+          "Materials": 4,
+          "Real Estate": 4,
+          "Utilities": 3
+        }
+      },
+      "key_findings": [
+        "The ESG framework established in Spring was further refined.",
+        "Value and Fixed Income sub‐funds outperformed their benchmarks, while Growth continued to underperform.",
+        "Stable dividend payouts and process improvements contributed to overall operational stability."
+      ],
+      "strategic_decisions": [
+        "Further integrate ESG criteria into the stock screening process.",
+        "Maintain balanced rebalancing across sub‐funds to address Growth underperformance.",
+        "Enhance risk management protocols to mitigate market volatility."
+      ],
+      "comparisons": "Fall 2019 consolidates the ESG initiatives with stable performance in Value and Fixed Income, though Growth remains a challenge.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [-4.66, 0.44]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [-4.66, 0.44, 2000000],
+          "Fall": [-4.66, 0.44, 2000000]
+        }
+      }
+    }
+  },
+  "2020": {
+    "Spring": {
+      "summary": "Spring 2020 Summary: Amid the onset of COVID-19, the Fund, with AUM of approximately $2.1 million, shifted rapidly to remote operations. Emphasis was placed on maintaining liquidity and managing downside risk amid unprecedented market disruptions.",
+      "performance_metrics": {
+        "6_month_return": 3.0,
+        "1_year_return": 10.0,
+        "AUM": 2100000,
+        "dividend": 0
+      },
+      "asset_allocation": {
+        "equity_percent": 85,
+        "fixed_income_percent": 10,
+        "cash_percent": 5,
+        "sector_breakdown": {
+          "Information Technology": 35,
+          "Communication Services": 25,
+          "Consumer Discretionary": 15,
+          "Financials": 5,
+          "Consumer Staples": 5,
+          "Energy": 3,
+          "Materials": 3,
+          "Real Estate": 4,
+          "Utilities": 5
+        }
+      },
+      "key_findings": [
+        "The Fund quickly transitioned to remote management amid COVID-19 disruptions.",
+        "Increased liquidity helped cushion the impact of market volatility.",
+        "Portfolio adjustments were made to mitigate downside risks in a rapidly changing environment."
+      ],
+      "strategic_decisions": [
+        "Implement a full-scale remote operations model.",
+        "Increase cash and fixed income holdings as a hedge against volatility.",
+        "Adopt enhanced analytics to capture rapid market movements."
+      ],
+      "comparisons": "Spring 2020 reflects an early COVID-19 environment with a focus on liquidity and risk management compared to pre-pandemic periods.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [3.0, 10.0]
+        },
+        "sector_allocation": {
+          "labels": [
+            "Information Technology",
+            "Communication Services",
+            "Consumer Discretionary",
+            "Financials",
+            "Consumer Staples",
+            "Energy",
+            "Materials",
+            "Real Estate",
+            "Utilities"
+          ],
+          "values": [35, 25, 15, 5, 5, 3, 3, 4, 5]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [3.0, 10.0, 2100000],
+          "Fall": []
+        }
+      }
+    },
+    "Fall": {
+      "summary": "Fall 2020 Summary: The Fund rebounded strongly amid the pandemic, achieving a six‐month return of 19.77% and reaching record-high AUM of approximately $2.475 million. Tactical rebalancing and effective remote operations were key factors in its robust performance.",
+      "performance_metrics": {
+        "6_month_return": 19.77,
+        "1_year_return": 30,
+        "AUM": 2475000,
+        "dividend": 0
+      },
+      "asset_allocation": {
+        "equity_percent": 90,
+        "fixed_income_percent": 5,
+        "cash_percent": 5,
+        "sector_breakdown": {
+          "Information Technology": 40,
+          "Communication Services": 20,
+          "Consumer Discretionary": 15,
+          "Financials": 5,
+          "Consumer Staples": 5,
+          "Energy": 4,
+          "Materials": 4,
+          "Real Estate": 4,
+          "Utilities": 3
+        }
+      },
+      "key_findings": [
+        "The Fund captured a strong market rebound with a six‐month return of 19.77%.",
+        "Record-high AUM was achieved due to tactical rebalancing and increased liquidity.",
+        "Remote operations were effectively maintained throughout the pandemic period."
+      ],
+      "strategic_decisions": [
+        "Continue leveraging remote operational efficiencies.",
+        "Tactically rebalance portfolio allocations to capture the market rebound.",
+        "Enhance fixed income and equity reallocation strategies amid volatility."
+      ],
+      "comparisons": "Fall 2020 shows a marked recovery from Spring 2020 with strong equity rebounds and record-high AUM driven by tactical adjustments.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [19.77, 30]
+        },
+        "sector_allocation": {
+          "labels": [
+            "Information Technology",
+            "Communication Services",
+            "Consumer Discretionary",
+            "Financials",
+            "Consumer Staples",
+            "Energy",
+            "Materials",
+            "Real Estate",
+            "Utilities"
+          ],
+          "values": [40, 20, 15, 5, 5, 4, 4, 4, 3]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [3.0, 10.0, 2100000],
+          "Fall": [19.77, 30, 2475000]
+        }
+      }
+    }
+  },
+  "2021": {
+    "Spring": {
+      "summary": "Spring 2021 Summary: The Fund, with an AUM of approximately $2.9 million, began transitioning back to in-person operations and leveraging enhanced analytics. Stable performance was observed with a six‐month return of 7.91% and improvements in portfolio management processes for the Growth and Value sub‐funds.",
+      "performance_metrics": {
+        "6_month_return": 7.91,
+        "1_year_return": 21.94,
+        "AUM": 2900000,
+        "dividend": 100000
+      },
+      "asset_allocation": {
+        "equity_percent": 92,
+        "fixed_income_percent": 5,
+        "cash_percent": 3,
+        "sector_breakdown": {
+          "Information Technology": 42,
+          "Communication Services": 18,
+          "Consumer Discretionary": 16,
+          "Financials": 5,
+          "Consumer Staples": 4,
+          "Energy": 4,
+          "Materials": 3,
+          "Real Estate": 4,
+          "Utilities": 4
+        }
+      },
+      "key_findings": [
+        "Return to in-person operations and hybrid learning were initiated.",
+        "Enhanced analytics led to more informed portfolio decisions.",
+        "Stable performance was achieved despite ongoing market volatility."
+      ],
+      "strategic_decisions": [
+        "Increase reliance on advanced data analytics for decision-making.",
+        "Adjust allocations in response to shifting post-pandemic market conditions.",
+        "Refine risk management processes to better monitor volatility."
+      ],
+      "comparisons": "Spring 2021 reflects a return toward normal operations with improved performance compared to 2020.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [7.91, 21.94]
+        },
+        "sector_allocation": {
+          "labels": [
+            "Information Technology",
+            "Communication Services",
+            "Consumer Discretionary",
+            "Financials",
+            "Consumer Staples",
+            "Energy",
+            "Materials",
+            "Real Estate",
+            "Utilities"
+          ],
+          "values": [42, 18, 16, 5, 4, 4, 3, 4, 4]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [7.91, 21.94, 2900000],
+          "Fall": []
+        }
+      }
+    },
+    "Fall": {
+      "summary": "Fall 2021 Summary: The Fund grew to an AUM of approximately $2.94 million and delivered a six‐month return of 10.28% with an annualized return of 23.13%. The Value and Fixed Income sub‐funds outperformed their benchmarks, while the Growth sub‐fund lagged. The report highlights improved rebalancing, disciplined stock selection, and increased in-person collaboration.",
+      "performance_metrics": {
+        "6_month_return": 10.28,
+        "1_year_return": 23.13,
+        "AUM": 2940000,
+        "dividend": 103700
+      },
+      "asset_allocation": {
+        "equity_percent": 94,
+        "fixed_income_percent": 3,
+        "cash_percent": 3,
+        "sector_breakdown": {
+          "Information Technology": 42,
+          "Communication Services": 18,
+          "Consumer Discretionary": 16,
+          "Financials": 5,
+          "Consumer Staples": 4,
+          "Energy": 4,
+          "Materials": 3,
+          "Real Estate": 4,
+          "Utilities": 4
+        }
+      },
+      "key_findings": [
+        "The Fund achieved a 10.28% six‐month return, with Value and Fixed Income outperforming and Growth underperforming.",
+        "Improved rebalancing, disciplined stock pitching, and integration of in-person collaboration enhanced portfolio management."
+      ],
+      "strategic_decisions": [
+        "Rebalance the portfolio to address overexposure in underperforming sectors.",
+        "Refine stock-picking criteria for increased diligence.",
+        "Integrate real-time portfolio tracking and enhance in-person collaboration."
+      ],
+      "comparisons": "Fall 2021 shows marked improvement compared to Spring 2021, with overall performance aligning closely with benchmarks.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [10.28, 23.13]
+        },
+        "sector_allocation": {
+          "labels": [
+            "Information Technology",
+            "Communication Services",
+            "Consumer Discretionary",
+            "Financials",
+            "Consumer Staples",
+            "Energy",
+            "Materials",
+            "Real Estate",
+            "Utilities"
+          ],
+          "values": [42, 18, 16, 5, 4, 4, 3, 4, 4]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [7.91, 21.94, 2900000],
+          "Fall": [10.28, 23.13, 2940000]
+        }
+      }
+    }
+  },
+  "2022": {
+    "Spring": {
+      "summary": "Spring 2022 Summary: In a high interest rate and geopolitical environment, the Fund managed around $2.55 million in assets and returned -6.57% over six months. Value and Fixed Income sub‐funds outperformed their benchmarks, while Growth and ESG underperformed. The report emphasizes the need for recalibration of risk management and better benchmark alignment, particularly for the ESG sub‐fund.",
+      "performance_metrics": {
+        "6_month_return": -6.57,
+        "1_year_return": -3.44,
+        "AUM": 2550000,
+        "dividend": 138500
+      },
+      "asset_allocation": {
+        "equity_percent": 70,
+        "fixed_income_percent": 20,
+        "cash_percent": 10,
+        "sector_breakdown": {
+          "Information Technology": 40,
+          "Communication Services": 20,
+          "Consumer Discretionary": 15,
+          "Financials": 5,
+          "Consumer Staples": 5,
+          "Energy": 4,
+          "Materials": 3,
+          "Real Estate": 4,
+          "Utilities": 4
+        }
+      },
+      "key_findings": [
+        "The Fund’s return was negative at -6.57%, reflecting significant market headwinds.",
+        "Value and Fixed Income sub‐funds outperformed, while Growth and ESG lagged.",
+        "There is a critical need to reassess benchmarks, especially for the ESG sub‐fund."
+      ],
+      "strategic_decisions": [
+        "Adjust portfolio allocations by reducing exposure to growth stocks.",
+        "Enhance risk management and utilize advanced analytics for better attribution.",
+        "Reevaluate benchmark appropriateness for the ESG sub‐fund."
+      ],
+      "comparisons": "Spring 2022 stands in stark contrast to previous positive years, prompting strategic rebalancing and tighter risk controls.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [-6.57, -3.44]
+        },
+        "sector_allocation": {
+          "labels": [
+            "Information Technology",
+            "Communication Services",
+            "Consumer Discretionary",
+            "Financials",
+            "Consumer Staples",
+            "Energy",
+            "Materials",
+            "Real Estate",
+            "Utilities"
+          ],
+          "values": [40, 20, 15, 5, 5, 4, 3, 4, 4]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [-6.57, -3.44, 2550000],
+          "Fall": []
+        }
+      }
+    },
+    "Fall": {
+      "summary": "Fall 2022 Summary: The Fund’s AUM declined to approximately $2.36 million amid market stress, with a six‐month return of -8.26%. While Growth, Fixed Income, and ESG sub‐funds outperformed their benchmarks to varying degrees, the Value sub‐fund underperformed by 204 bps. The report underscores the need for recalibration of investment strategies in response to prolonged volatility.",
+      "performance_metrics": {
+        "6_month_return": -8.26,
+        "1_year_return": 0,
+        "AUM": 2360000,
+        "dividend": 138500
+      },
+      "asset_allocation": {
+        "equity_percent": 82.66,
+        "fixed_income_percent": 15.27,
+        "cash_percent": 2.98,
+        "sector_breakdown": {
+          "Information Technology": 40,
+          "Communication Services": 20,
+          "Consumer Discretionary": 15,
+          "Financials": 5,
+          "Consumer Staples": 5,
+          "Energy": 4,
+          "Materials": 4,
+          "Real Estate": 4,
+          "Utilities": 3
+        }
+      },
+      "key_findings": [
+        "The Fund returned -8.26% over six months, reflecting prolonged market stress.",
+        "The Value sub‐fund underperformed significantly, while other sub‐funds fared better.",
+        "Aligning active management with market benchmarks remains a challenge."
+      ],
+      "strategic_decisions": [
+        "Reassess and recalibrate benchmarks, especially for the ESG sub‐fund.",
+        "Increase fixed income exposure to cushion against equity volatility.",
+        "Enhance real-time analytical capabilities for quicker decision-making."
+      ],
+      "comparisons": "Fall 2022 contrasts with Spring 2022 through further underperformance and a decline in AUM, indicating the need for strategic adjustments.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [-8.26, 0]
+        },
+        "sector_allocation": {
+          "labels": [
+            "Information Technology",
+            "Communication Services",
+            "Consumer Discretionary",
+            "Financials",
+            "Consumer Staples",
+            "Energy",
+            "Materials",
+            "Real Estate",
+            "Utilities"
+          ],
+          "values": [40, 20, 15, 5, 5, 4, 4, 4, 3]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [-6.57, -3.44, 2550000],
+          "Fall": [-8.26, 0, 2360000]
+        }
+      }
+    }
+  },
+  "2023": {
+    "Spring": {
+      "summary": "Spring 2023 Summary: The Fund, with an AUM of approximately $2.46 million, delivered mixed performance. The Value sub‐fund achieved strong returns of 13.72%, while the Growth sub‐fund underperformed its benchmark by 3.14 percentage points. The environment was marked by cautious management amid geopolitical and economic uncertainties.",
+      "performance_metrics": {
+        "6_month_return": 7.82,
+        "1_year_return": 10.14,
+        "AUM": 2460000,
+        "dividend": 103200
+      },
+      "asset_allocation": {
+        "equity_percent": 92,
+        "fixed_income_percent": 5,
+        "cash_percent": 3,
+        "sector_breakdown": {
+          "Information Technology": 40,
+          "Communication Services": 20,
+          "Consumer Discretionary": 15,
+          "Financials": 5,
+          "Consumer Staples": 5,
+          "Energy": 4,
+          "Materials": 3,
+          "Real Estate": 4,
+          "Utilities": 4
+        }
+      },
+      "key_findings": [
+        "The Value sub‐fund delivered strong returns of 13.72%.",
+        "The Growth sub‐fund underperformed its benchmark by 3.14 percentage points.",
+        "Overall management was cautious amid geopolitical and economic headwinds."
+      ],
+      "strategic_decisions": [
+        "Improve stock selection processes within the Growth sub‐fund.",
+        "Enhance analytics to better understand performance discrepancies among sub‐funds.",
+        "Continue targeted rebalancing to optimize sector exposures."
+      ],
+      "comparisons": "Spring 2023 reflects a cautious environment with strong value performance and challenges in the Growth sub‐fund.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [7.82, 10.14]
+        },
+        "sector_allocation": {
+          "labels": [
+            "Information Technology",
+            "Communication Services",
+            "Consumer Discretionary",
+            "Financials",
+            "Consumer Staples",
+            "Energy",
+            "Materials",
+            "Real Estate",
+            "Utilities"
+          ],
+          "values": [40, 20, 15, 5, 5, 4, 3, 4, 4]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [7.82, 10.14, 2460000],
+          "Fall": []
+        }
+      }
+    },
+    "Fall": {
+      "summary": "Fall 2023 Summary: The Fund maintained stable performance with an AUM near $2.46 million. The six‐month return was about 7.50%, with the Value sub‐fund continuing to outperform and the Growth sub‐fund showing persistent underperformance. The report emphasizes steady risk management and incremental process enhancements.",
+      "performance_metrics": {
+        "6_month_return": 7.50,
+        "1_year_return": 10.00,
+        "AUM": 2460000,
+        "dividend": 103200
+      },
+      "asset_allocation": {
+        "equity_percent": 92,
+        "fixed_income_percent": 5,
+        "cash_percent": 3,
+        "sector_breakdown": {
+          "Information Technology": 40,
+          "Communication Services": 20,
+          "Consumer Discretionary": 15,
+          "Financials": 5,
+          "Consumer Staples": 5,
+          "Energy": 4,
+          "Materials": 3,
+          "Real Estate": 4,
+          "Utilities": 4
+        }
+      },
+      "key_findings": [
+        "The Fund delivered a six‐month return of 7.50%.",
+        "The Value sub‐fund continued to outperform its benchmark while Growth remained challenged.",
+        "Risk management and process enhancements were maintained in spite of market challenges."
+      ],
+      "strategic_decisions": [
+        "Sustain focus on enhancing value stock selection criteria.",
+        "Adjust growth strategies to better align with benchmarks.",
+        "Optimize fixed income allocation to safeguard against downturns."
+      ],
+      "comparisons": "Fall 2023 maintains the trends of Spring 2023 with solid Value performance and a continued need to improve Growth outcomes.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [7.50, 10.00]
+        },
+        "sector_allocation": {
+          "labels": [
+            "Information Technology",
+            "Communication Services",
+            "Consumer Discretionary",
+            "Financials",
+            "Consumer Staples",
+            "Energy",
+            "Materials",
+            "Real Estate",
+            "Utilities"
+          ],
+          "values": [40, 20, 15, 5, 5, 4, 3, 4, 4]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [7.82, 10.14, 2460000],
+          "Fall": [7.50, 10.00, 2460000]
+        }
+      }
+    }
+  },
+  "2024": {
+    "Spring": {
+      "summary": "Spring 2024 Summary: The Fund achieved a six‑month absolute return of 11.16% compared to a benchmark of 10.83%, a relative overperformance of 32 bps. With AUM of $2.74 million and a dividend payout of $141,600, the report highlights robust operational improvements, a disciplined investment process, and stable performance—particularly strong in the Value sub‐fund—while the Growth Fund underperformed by 5.69 percentage points relative to its benchmark.",
+      "performance_metrics": {
+        "6_month_return": 11.16,
+        "1_year_return": 19.85,
+        "AUM": 2740000,
+        "dividend": 141600
+      },
+      "asset_allocation": {
+        "equity_percent": 83.09,
+        "fixed_income_percent": 14.01,
+        "cash_percent": 2.89,
+        "sector_breakdown": {
+          "Information Technology": 39,
+          "Communication Services": 21,
+          "Consumer Discretionary": 20,
+          "Financials": 3,
+          "Consumer Staples": 3,
+          "Energy": 3,
+          "Materials": 3,
+          "Real Estate": 4,
+          "Utilities": 4
+        }
+      },
+      "key_findings": [
+        "Improved analytics and reporting processes were implemented.",
+        "The Value sub‐fund showed robust performance driven by strong cash flows.",
+        "The Growth sub‐fund underperformed its benchmark by 5.69 percentage points.",
+        "Ongoing enhancements in operations and risk management were emphasized."
+      ],
+      "strategic_decisions": [
+        "Implemented bi-weekly reviews to ensure proper sector balance.",
+        "Shortened voting/trading windows for quicker response.",
+        "Exited weak-performing positions to reallocate capital to high-quality, low-debt companies.",
+        "Enhanced Fixed Income strategy by raising floating-rate holdings."
+      ],
+      "comparisons": "Spring 2024 exhibits strong operational practices and notable outperformance in Value, though Growth lagged behind benchmark performance.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [11.16, 19.85]
+        },
+        "sector_allocation": {
+          "labels": [
+            "Information Technology",
+            "Communication Services",
+            "Consumer Discretionary",
+            "Financials",
+            "Consumer Staples",
+            "Energy",
+            "Materials",
+            "Real Estate",
+            "Utilities"
+          ],
+          "values": [39, 21, 20, 3, 3, 3, 3, 4, 4]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [11.16, 19.85, 2740000],
+          "Fall": [9.50, 21.70, 2843000]
+        }
+      }
+    },
+    "Fall": {
+      "summary": "Fall 2024 Summary: For the first time, AUM surpassed $3 million, reaching approximately $2.84 million after dividend payouts. The Fund achieved a six‑month return of 9.50% versus a benchmark of 9.56%, a minor underperformance of 6 bps. Sub‐fund performance varied, with Fixed Income and ESG outperforming their benchmarks while the Growth sub‐fund underperformed by 4.05 percentage points. The report underscores continued operational improvements and strategic adjustments amid volatility.",
+      "performance_metrics": {
+        "6_month_return": 9.50,
+        "1_year_return": 21.70,
+        "AUM": 2843000,
+        "dividend": 141600
+      },
+      "asset_allocation": {
+        "equity_percent": 85.82,
+        "fixed_income_percent": 10.91,
+        "cash_percent": 3.28,
+        "sector_breakdown": {
+          "Information Technology": 39,
+          "Communication Services": 21,
+          "Consumer Discretionary": 20,
+          "Financials": 3,
+          "Consumer Staples": 3,
+          "Energy": 3,
+          "Materials": 3,
+          "Real Estate": 4,
+          "Utilities": 4
+        }
+      },
+      "key_findings": [
+        "AUM surpassed $3 million for the first time.",
+        "Fixed Income outperformed by 37 bps and ESG by 3.26%, while Growth underperformed by 4.05 percentage points.",
+        "Overall performance was within 6 bps of the blended benchmark.",
+        "Operational enhancements and robust risk management contributed to portfolio stability."
+      ],
+      "strategic_decisions": [
+        "Rebalance sub‐funds to adjust for market volatility and shifting trends.",
+        "Refine risk management strategies through dynamic reallocation.",
+        "Enhance the ESG fund framework to incorporate thematic investing in AI and Energy Transition.",
+        "Continue refinement of investment processes and administrative support."
+      ],
+      "comparisons": "Fall 2024 shows the Fund reaching a new milestone with diversified sub‐fund performance and a slight underperformance relative to benchmarks.",
+      "graphs_data": {
+        "performance": {
+          "metrics": ["6 Month", "1 Year"],
+          "values": [9.50, 21.70]
+        },
+        "sector_allocation": {
+          "labels": [
+            "Information Technology",
+            "Communication Services",
+            "Consumer Discretionary",
+            "Financials",
+            "Consumer Staples",
+            "Energy",
+            "Materials",
+            "Real Estate",
+            "Utilities"
+          ],
+          "values": [39, 21, 20, 3, 3, 3, 3, 4, 4]
+        },
+        "heatmap": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "Spring": [11.16, 19.85, 2740000],
+          "Fall": [9.50, 21.70, 2843000]
+        }
+      }
+    }
+  }
+}

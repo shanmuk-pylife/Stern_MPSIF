@@ -1,0 +1,739 @@
+{
+  "2001": {
+    "Spring": {
+      "summary": "No data available.",
+      "performance_metrics": {
+        "6_month_return": "No data",
+        "1_year_return": "No data",
+        "AUM": "No data",
+        "dividend": "No data"
+      },
+      "asset_allocation": {
+        "equity_percent": "No data",
+        "fixed_income_percent": "No data",
+        "cash_percent": "No data",
+        "sector_breakdown": {}
+      },
+      "key_findings": [],
+      "strategic_decisions": [],
+      "comparisons": "No data",
+      "graphs_data": {
+        "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+        "values": ["No data", "No data", "No data"]
+      }
+    },
+    "Fall": {
+      "summary": "The Fund Prospectus and First Year Report (dated February 28, 2001) marked the conclusion of MPSIF's inaugural year. The report highlights that from the inception date of March 1, 2000 the total market value increased from $1,800,000 to $1,913,700 – a 12‑month total return of 6.3%. Sub‑fund performance varied substantially: the Growth & Income Fund posted a return of -8.4%, the Small Cap Fund returned 9.1%, and the Value Fund achieved a 18.3% return. In contrast, major market indices were under pressure (Nasdaq -55.02%, S&P 500 -9.87%, DJIA +3.53%), underscoring the challenging market conditions during this period.",
+      "performance_metrics": {
+        "6_month_return": "No data",
+        "1_year_return": 6.3,
+        "dividend": "5% annual distribution",
+        "AUM": 1913700,
+        "Growth_12_month_return": -8.4,
+        "Small_Cap_12_month_return": 9.1,
+        "Value_12_month_return": 18.3
+      },
+      "asset_allocation": {
+        "equity_percent": "No data",
+        "fixed_income_percent": "No data",
+        "cash_percent": "No data",
+        "sector_breakdown": {}
+      },
+      "key_findings": [
+        "Total market value grew from $1.8M to $1.9137M, yielding a 6.3% overall return.",
+        "The Value Fund outperformed with an 18.3% return, while the Growth & Income Fund underperformed at -8.4%.",
+        "Despite steep declines in major indices (e.g., Nasdaq down by over 55%), the Fund achieved positive returns.",
+        "The report highlights the robust organizational framework inherited from the founding class."
+      ],
+      "strategic_decisions": [
+        "Maintain sufficient cash reserves to cushion against market downturns.",
+        "Increase visibility of MPSIF within the investment community.",
+        "Refine stock selection processes to improve entry point timing."
+      ],
+      "comparisons": "The 12‑month return of 6.3% stands in contrast to major indices and shows the fund’s resilience during a volatile market environment.",
+      "graphs_data": {
+        "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+        "values": ["No data", 6.3, 1913700]
+      }
+    }
+  },
+    "2002": {
+      "Spring": {
+        "summary": "The semi-annual report for the period September 1, 2001 – February 28, 2002 highlights the initial operational restructuring of MPSIF. Key initiatives included separating fixed income from equity to establish a dedicated FI strategy, increasing centralization among the funds, and performing a comprehensive self-audit. The portfolio achieved a 6-month return of -1.65%, outperforming the benchmark's -3.44% by 1.79 percentage points. The trailing 12-month return is -9.94%.",
+        "performance_metrics": {
+          "6_month_return": -1.65,
+          "1_year_return": -9.94,
+          "AUM": "No data",
+          "dividend": "No data"
+        },
+        "asset_allocation": {
+          "equity_percent": "No data",
+          "fixed_income_percent": "No data",
+          "cash_percent": "No data",
+          "sector_breakdown": {}
+        },
+        "key_findings": [
+          "Implemented separation of fixed income from equity and increased management centralization.",
+          "Achieved a 6-month return of -1.65%, outperforming the benchmark's -3.44% by 1.79 percentage points.",
+          "The trailing 12-month return stands at -9.94%, reflecting ongoing market challenges."
+        ],
+        "strategic_decisions": [
+          "Proceed with the fixed income separation effective May 1, 2002.",
+          "Enhance coordination among portfolio managers.",
+          "Develop a standardized management handbook for continuity."
+        ],
+        "comparisons": "Over the past six months, MPSIF achieved -1.65% versus the benchmark's -3.44%, and over 12 months, the return is -9.94%.",
+        "graphs_data": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "values": [-1.65, -9.94, "No data"]
+        }
+      },
+      "Fall": {
+        "summary": "The Annual Report for the period September 1, 2001 – August 31, 2002 reflects a challenging fiscal year for MPSIF. During this period, the overall portfolio value declined from $1,895,779 to $1,619,553. The fund's annual return of -9.94% represents a slight outperformance against the benchmark's -11.42%, corresponding to an outperformance of 1.49 percentage points.",
+        "performance_metrics": {
+          "6_month_return": "No data",
+          "1_year_return": -9.94,
+          "dividend": "5% annual distribution",
+          "AUM": 1619553
+        },
+        "asset_allocation": {
+          "equity_percent": 64.1,
+          "fixed_income_percent": 28.4,
+          "cash_percent": 7.5,
+          "sector_breakdown": {
+            "labels": [
+              "Information Technology",
+              "Communication Services",
+              "Consumer Discretionary",
+              "Financials",
+              "Consumer Staples",
+              "Energy",
+              "Materials",
+              "Real Estate",
+              "Utilities"
+            ],
+            "values": "No data"
+          }
+        },
+        "key_findings": [
+          "The overall portfolio value declined from $1,895,779 to $1,619,553.",
+          "MPSIF achieved a 12-month return of -9.94% versus a benchmark loss of -11.42%, outperforming by 1.49 percentage points.",
+          "Asset allocation at year-end was 64.1% equities, 28.4% fixed income, and 7.5% cash."
+        ],
+        "strategic_decisions": [
+          "Rebalance portfolios to adjust to market conditions.",
+          "Optimize the fixed income strategy following asset transfers.",
+          "Enhance risk management practices based on fiscal 2002 performance."
+        ],
+        "comparisons": "Over the 12-month period, MPSIF returned -9.94%, outperforming the benchmark's -11.42% by 1.49 percentage points.",
+        "graphs_data": {
+          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+          "values": ["No data", -9.94, 1619553]
+        }
+      }
+    },
+      "2003": {
+        "Spring": {
+          "summary": "The Semi‐Annual Report for the period September 1, 2002 – February 28, 2003 highlights significant market volatility and operational challenges. Key initiatives included centralizing fixed income management, adopting a new benchmark, and improving coordination among sub‐funds. Overall, the Fund experienced a decline in net assets as market pressures prevailed.",
+          "performance_metrics": {
+            "6_month_return": -9.4,
+            "1_year_return": "No data",
+            "AUM": 1516971,
+            "dividend": "5% annual distribution"
+          },
+          "asset_allocation": {
+            "equity_percent": 57.7,
+            "fixed_income_percent": 33.1,
+            "cash_percent": 9.1,
+            "sector_breakdown": {
+              "Information Technology": 30,
+              "Healthcare": 25,
+              "Financials": 20,
+              "Consumer Staples": 10,
+              "Energy": 5,
+              "Other": 10
+            }
+          },
+          "key_findings": [
+            "Net assets declined by approximately 14.5% over the period, reflecting harsh market conditions.",
+            "The Growth Fund underperformed its benchmark by about 130 basis points.",
+            "Centralization and rebalancing efforts were introduced to counter volatility."
+          ],
+          "strategic_decisions": [
+            "Focus on enhanced stock selection and tighter risk management amid volatility.",
+            "Refine rebalancing strategies to restore target allocations after annual withdrawals."
+          ],
+          "comparisons": "The Fund underperformed its benchmark by approximately 130 bps, with a six-month return of -9.4% compared to a benchmark loss of -7.3%.",
+          "graphs_data": {
+            "performance": {
+              "metrics": ["6 Month Return", "Benchmark 6 Month Return"],
+              "values": [-9.4, -7.3]
+            },
+            "sector_allocation": {
+              "labels": ["Information Technology", "Healthcare", "Financials", "Consumer Staples", "Energy", "Other"],
+              "values": [30, 25, 20, 10, 5, 10]
+            },
+            "heatmap": {
+              "metrics": ["6 Month Return", "AUM"],
+              "Spring": [-9.4, 1516971],
+              "Fall": ["No data", "No data"]
+            }
+          }
+        },
+        "Fall": {
+          "summary": "The Annual Report for fiscal 2003 (September 1, 2002 – August 31, 2003) shows that the Fund achieved a net total return of approximately 6.2% (net of the mandated 5% withdrawal). The report highlights that, despite mixed performance among sub‐funds, the Fund maintained its mission, implemented effective rebalancing, and upheld its operational discipline in a volatile market.",
+          "performance_metrics": {
+            "6_month_return": "No data",
+            "1_year_return": 6.2,
+            "AUM": 1820000,
+            "dividend": "5% annual distribution"
+          },
+          "asset_allocation": {
+            "equity_percent": 65.9,
+            "fixed_income_percent": 28.8,
+            "cash_percent": 5.3,
+            "sector_breakdown": {
+              "Information Technology": 35,
+              "Healthcare": 30,
+              "Consumer Discretionary": 15,
+              "Energy": 10,
+              "Other": 10
+            }
+          },
+          "key_findings": [
+            "The overall Fund return was 6.2% net of the annual withdrawal.",
+            "Effective rebalancing policies helped maintain a balanced portfolio.",
+            "Operational improvements contributed to stability despite market volatility."
+          ],
+          "strategic_decisions": [
+            "Maintain rigorous risk management and rebalancing protocols.",
+            "Leverage operational improvements to enhance future performance."
+          ],
+          "comparisons": "The Fund’s annual return of 6.2% reflects stable performance relative to market volatility, although it remains below the benchmark's return.",
+          "graphs_data": {
+            "performance": {
+              "metrics": ["1 Year Return", "Blended Benchmark"],
+              "values": [6.2, 10.8]
+            },
+            "sector_allocation": {
+              "labels": ["Information Technology", "Healthcare", "Consumer Discretionary", "Energy", "Other"],
+              "values": [35, 30, 15, 10, 10]
+            },
+            "heatmap": {
+              "metrics": ["1 Year Return", "AUM"],
+              "Spring": ["No data", "No data"],
+              "Fall": [6.2, 1820000]
+            }
+          }
+        }
+      },
+    
+        "2004": {
+          "Spring": {
+            "summary": "Spring 2004 Summary: The MPSIF portfolio achieved a return of 6.81% for the year, underperforming its blended benchmark by 230 basis points. The performance was driven by strong results from Small Cap and Fixed Income sectors, though the Value and Growth sectors underperformed their benchmarks. Despite this, the Fund has grown steadily with strong sector diversification.",
+            "performance_metrics": {
+              "6_month_return": "No data",
+              "1_year_return": 6.81,
+              "AUM": 1916455,
+              "dividend": "5% annual distribution"
+            },
+            "asset_allocation": {
+              "equity_percent": 62,
+              "fixed_income_percent": 29,
+              "cash_percent": 9,
+              "sector_breakdown": {
+                "Consumer Discretionary": 20,
+                "Healthcare": 18,
+                "Industrials": 13,
+                "Technology": 15,
+                "Financials": 2,
+                "Energy & Oils": 5,
+                "Basic Materials": 6,
+                "Consumer Staples": 8,
+                "Utilities": 3
+              }
+            },
+            "key_findings": [
+              "The Fund underperformed the benchmark by 230 basis points, despite a 6.81% return.",
+              "Strong performance from Small Cap and Fixed Income funds.",
+              "Sector allocation adjustments contributed to mitigating underperformance in the Value and Growth funds."
+            ],
+            "strategic_decisions": [
+              "Rebalanced the portfolio to capitalize on Small Cap and Fixed Income outperformance.",
+              "Strengthened sector diversification, increasing focus on Healthcare and Technology."
+            ],
+            "comparisons": "Spring 2004's return was a solid gain, but underperformed its blended benchmark due to weak performance in the Growth and Value funds.",
+            "graphs_data": {
+              "performance": {
+                "metrics": ["6 Month Return", "1 Year Return"],
+                "values": ["No data", 6.81]
+              },
+              "sector_allocation": {
+                "labels": [
+                  "Consumer Discretionary", "Healthcare", "Industrials", "Technology", 
+                  "Financials", "Energy & Oils", "Basic Materials", "Consumer Staples", "Utilities"
+                ],
+                "values": [20, 18, 13, 15, 2, 5, 6, 8, 3]
+              }
+            }
+          },
+          "Fall": {
+            "summary": "Fall 2004 Summary: The portfolio achieved a 9.5% return for the period, slightly underperforming the benchmark by 6 basis points. Performance was mainly driven by Fixed Income and Small Cap funds. The Value fund underperformed the Russell 1000 Value Index by 2.4% while Fixed Income continued to outperform its benchmark.",
+            "performance_metrics": {
+              "6_month_return": 9.5,
+              "1_year_return": 6.81,
+              "AUM": 1716186,
+              "dividend": "5% annual distribution"
+            },
+            "asset_allocation": {
+              "equity_percent": 62,
+              "fixed_income_percent": 29,
+              "cash_percent": 9,
+              "sector_breakdown": {
+                "Consumer Discretionary": 19,
+                "Healthcare": 17,
+                "Industrials": 14,
+                "Technology": 16,
+                "Financials": 4,
+                "Energy & Oils": 5,
+                "Basic Materials": 7,
+                "Consumer Staples": 8,
+                "Utilities": 4
+              }
+            },
+            "key_findings": [
+              "The portfolio returned 9.5%, underperforming its blended benchmark by 6 bps.",
+              "Strong performance in Small Cap and Fixed Income funds, but Value Fund underperformed its benchmark.",
+              "The portfolio continued to demonstrate stable growth with diversified sector allocation."
+            ],
+            "strategic_decisions": [
+              "Maintained diversification across equities and fixed income.",
+              "Focused on improving risk management strategies amidst volatile markets."
+            ],
+            "comparisons": "Fall 2004's performance was in line with long-term goals but lagged behind the benchmark by a slight margin.",
+            "graphs_data": {
+              "performance": {
+                "metrics": ["6 Month Return", "1 Year Return"],
+                "values": [9.5, 6.81]
+              },
+              "sector_allocation": {
+                "labels": [
+                  "Consumer Discretionary", "Healthcare", "Industrials", "Technology", 
+                  "Financials", "Energy & Oils", "Basic Materials", "Consumer Staples", "Utilities"
+                ],
+                "values": [19, 17, 14, 16, 4, 5, 7, 8, 4]
+              }
+            }
+          }
+        },
+        
+          "2005": {
+            "Spring": {
+              "summary": "For the period ending February 28, 2005, MPSIF posted a solid return driven by strong performance in Small Cap, which outperformed its benchmark. However, the Fund's fixed income and growth segments faced some challenges, underperforming their respective benchmarks due to sector misalignment and currency exposure.",
+              "performance_metrics": {
+                "6_month_return": 10.16,
+                "1_year_return": 6.15,
+                "AUM": 1930079,
+                "dividend": 0,
+                "Growth_6_month_return": -4.9,
+                "Small_Cap_6_month_return": 22.8,
+                "Value_6_month_return": 0.0
+              },
+              "asset_allocation": {
+                "equity_percent": 62.4,
+                "fixed_income_percent": 21.4,
+                "cash_percent": 16.2,
+                "sector_breakdown": {
+                  "Consumer Discretionary": 24,
+                  "Technology": 21,
+                  "Financials": 17,
+                  "Health Care": 12,
+                  "Industrials": 10,
+                  "Energy": 8,
+                  "Consumer Staples": 3
+                }
+              },
+              "key_findings": [
+                "Small Cap outperformed its benchmark, but Growth underperformed by 4.9%.",
+                "Fixed income allocations underperformed due to currency exposure.",
+                "The fund reached a new AUM of $1.93M, with a focus on Consumer and Technology sectors."
+              ],
+              "strategic_decisions": [
+                "Increase focus on high-performing equity sectors like Small Cap and Technology.",
+                "Refine fixed income allocation to mitigate currency exposure.",
+                "Rebalance growth fund to target underperforming sectors."
+              ],
+              "comparisons": "MPSIF's 6-month performance of 10.16% exceeded its blended benchmark, but the Fund faced challenges in fixed income and growth segments, underperforming in some areas compared to the broader market.",
+              "graphs_data": {
+                "performance": {
+                  "metrics": ["6 Month", "1 Year"],
+                  "values": [10.16, 6.15]
+                },
+                "sector_allocation": {
+                  "labels": [
+                    "Consumer Discretionary",
+                    "Technology",
+                    "Financials",
+                    "Health Care",
+                    "Industrials",
+                    "Energy",
+                    "Consumer Staples"
+                  ],
+                  "values": [24, 21, 17, 12, 10, 8, 3]
+                }
+              }
+            },
+            "Fall": {
+              "summary": "The Fall period showed significant portfolio growth with MPSIF achieving an overall return of 12.7%. This was led by strong performances in Small Cap and Value funds. However, the fund struggled in its growth and fixed income segments, which remained below the blended benchmark.",
+              "performance_metrics": {
+                "6_month_return": 12.7,
+                "1_year_return": 5.0,
+                "AUM": 1930079,
+                "dividend": 0,
+                "Growth_6_month_return": 11.1,
+                "Small_Cap_6_month_return": 28.3,
+                "Value_6_month_return": 11.7
+              },
+              "asset_allocation": {
+                "equity_percent": 62.4,
+                "fixed_income_percent": 21.4,
+                "cash_percent": 16.2,
+                "sector_breakdown": {
+                  "Consumer Discretionary": 24,
+                  "Technology": 21,
+                  "Financials": 17,
+                  "Health Care": 12,
+                  "Industrials": 10,
+                  "Energy": 8,
+                  "Consumer Staples": 3
+                }
+              },
+              "key_findings": [
+                "Small Cap led with an outstanding 28.3% return in the 6-month period.",
+                "Value Fund performed solidly, with a return of 11.7%, though the Growth Fund underperformed.",
+                "Fixed income allocations still faced challenges in comparison to the broader market."
+              ],
+              "strategic_decisions": [
+                "Increase exposure to Small Cap stocks, which have shown significant outperformance.",
+                "Consider reallocating funds from underperforming Growth segments into more stable sectors.",
+                "Increase investment in Value stocks, as they have performed well compared to the market."
+              ],
+              "comparisons": "MPSIF’s performance exceeded the benchmark in the Small Cap Fund but struggled in Growth and Fixed Income segments, showing a marked underperformance in those areas relative to market indices.",
+              "graphs_data": {
+                "performance": {
+                  "metrics": ["6 Month", "1 Year"],
+                  "values": [12.7, 5.0]
+                },
+                "sector_allocation": {
+                  "labels": [
+                    "Consumer Discretionary",
+                    "Technology",
+                    "Financials",
+                    "Health Care",
+                    "Industrials",
+                    "Energy",
+                    "Consumer Staples"
+                  ],
+                  "values": [24, 21, 17, 12, 10, 8, 3]
+                }
+              }
+            }
+          },
+          
+            "2006": {
+              "Spring": {
+                "summary": "MPSIF ended the fiscal year with $1.88 million in assets under management representing a 6.6% annual return. The fund incurred losses in the second half of the year but achieved a cumulative return of 46.8% since inception. It met its annual distribution requirements and exceeded them for the past year, distributing $101,725 to the University of Oklahoma Price School of Business.",
+                "performance_metrics": {
+                  "6_month_return": -1.00,
+                  "1_year_return": 6.56,
+                  "AUM": 1880000,
+                  "dividend": 101725
+                },
+                "asset_allocation": {
+                  "equity_percent": "No data",
+                  "fixed_income_percent": "No data",
+                  "cash_percent": "No data",
+                  "sector_breakdown": {}
+                },
+                "key_findings": [
+                  "Fund met its annual distribution requirements and exceeded them for the past year.",
+                  "Small Cap and Value strategies performed strongly, while the Growth Fund posted a loss for the year.",
+                  "The Fund incurred losses in the second half of the year but had positive overall returns."
+                ],
+                "strategic_decisions": [
+                  "Focus on absolute return mandate while reversing the narrowing of performance gap versus benchmarks.",
+                  "Use ETF's and stop-loss orders for better risk management in the future."
+                ],
+                "comparisons": "MPSIF posted a 6.56% return for the fiscal year, slightly behind the blended benchmark of 7.19% but significantly outperforming in longer-term performance.",
+                "graphs_data": {
+                  "performance": {
+                    "metrics": ["6 Month Return", "1 Year Return"],
+                    "values": [-1.00, 6.56]
+                  },
+                  "sector_allocation": {
+                    "labels": ["No data"],
+                    "values": ["No data"]
+                  }
+                }
+              },
+              "Fall": {
+                "summary": "MPSIF's total assets reached $2.01 million, and the Fund achieved a 7.4% return during the first half of fiscal 2006, outperforming its blended benchmark by 177 bps. Strong performance from the Small Cap and Growth funds helped the Fund beat its benchmark.",
+                "performance_metrics": {
+                  "6_month_return": 7.40,
+                  "1_year_return": 9.86,
+                  "AUM": 2010000,
+                  "dividend": 101725
+                },
+                "asset_allocation": {
+                  "equity_percent": "No data",
+                  "fixed_income_percent": "No data",
+                  "cash_percent": "No data",
+                  "sector_breakdown": {}
+                },
+                "key_findings": [
+                  "Small Cap Fund and Growth Fund significantly outperformed benchmarks.",
+                  "The Fund has grown its assets under management to $2.01 million, its highest total in six years."
+                ],
+                "strategic_decisions": [
+                  "Focus on maintaining strong performance and continuing with the bottom-up stock selection process.",
+                  "Strengthen relationships with Stern alumni to promote the Fund and attract top talent."
+                ],
+                "comparisons": "The Fund outperformed its benchmark by 177 bps during the first half of fiscal 2006.",
+                "graphs_data": {
+                  "performance": {
+                    "metrics": ["6 Month Return", "1 Year Return"],
+                    "values": [7.40, 9.86]
+                  },
+                  "sector_allocation": {
+                    "labels": ["No data"],
+                    "values": ["No data"]
+                  }
+                }
+              }
+            },
+              "2007": {
+                "Spring": {
+                  "summary": "For the Spring semester of 2007, the Fund showed positive performance despite volatility in the markets. The report highlights strong performances from the Small Cap and Value Funds.",
+                  "performance_metrics": {
+                    "6_month_return": "No data",
+                    "1_year_return": "No data",
+                    "AUM": 1955000,
+                    "dividend": "No data"
+                  },
+                  "asset_allocation": {
+                    "equity_percent": "No data",
+                    "fixed_income_percent": "No data",
+                    "cash_percent": "No data",
+                    "sector_breakdown": {
+                      "Small_Cap_Fund": "No data",
+                      "Value_Fund": "No data"
+                    }
+                  },
+                  "key_findings": [
+                    "The Small Cap Fund and Value Fund showed strong performance during this period.",
+                    "Despite volatility, the Fund demonstrated positive returns, primarily driven by equity-based funds."
+                  ],
+                  "strategic_decisions": [
+                    "Focus on maintaining equity exposure while managing risk through diversified asset allocation.",
+                    "Enhance communication between fund managers and investors to ensure strategic alignment."
+                  ],
+                  "comparisons": "No direct comparisons to benchmarks are available in this report.",
+                  "graphs_data": {
+                    "performance": {
+                      "metrics": ["6 Month Return", "1 Year Return"],
+                      "values": ["No data", "No data"]
+                    },
+                    "heatmap": {
+                      "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+                      "values": ["No data", "No data", 1955000]
+                    }
+                  }
+                },
+                "Fall": {
+                  "summary": "The Fall 2007 report shows how the Fund handled the subprime mortgage crisis, with strong returns from the Small Cap and Growth Funds despite market disruptions.",
+                  "performance_metrics": {
+                    "6_month_return": "No data",
+                    "1_year_return": 9.55,
+                    "AUM": 1955000,
+                    "dividend": "No data"
+                  },
+                  "asset_allocation": {
+                    "equity_percent": "No data",
+                    "fixed_income_percent": "No data",
+                    "cash_percent": "No data",
+                    "sector_breakdown": {
+                      "Small_Cap_Fund": "No data",
+                      "Growth_Fund": "No data"
+                    }
+                  },
+                  "key_findings": [
+                    "The Growth Fund posted a solid return despite the broader economic challenges.",
+                    "Small Cap and Value Funds showed resilience during a tumultuous market period."
+                  ],
+                  "strategic_decisions": [
+                    "Focus on managing risks associated with market volatility, particularly in the equity sectors.",
+                    "Rebalance portfolios to minimize exposure to underperforming assets."
+                  ],
+                  "comparisons": "The Fund outperformed many benchmarks during a turbulent year, with a notable 9.55% return despite market declines.",
+                  "graphs_data": {
+                    "performance": {
+                      "metrics": ["6 Month Return", "1 Year Return"],
+                      "values": ["No data", 9.55]
+                    },
+                    "heatmap": {
+                      "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+                      "values": ["No data", 9.55, 1955000]
+                    }
+                  }
+                }
+              },
+                "2008": {
+                  "Spring": {
+                    "summary": "The fund faced significant volatility in the equity markets during fiscal 2008, with substantial challenges driven by the credit crisis. Despite this, the Fund outperformed its benchmarks, with the Growth Fund showing a return of -9.26% and the Small Cap Fund returning -4.01%. The Value Fund performed better with a return of 0.74%. The report highlights strategic stock selections, including exits from positions like Bank of America and Legg Mason, which performed poorly post-sale.",
+                    "performance_metrics": {
+                      "6_month_return": -2.15,
+                      "1_year_return": "No data",
+                      "AUM": "No data",
+                      "dividend": "No data"
+                    },
+                    "asset_allocation": {
+                      "equity_percent": "No data",
+                      "fixed_income_percent": "No data",
+                      "cash_percent": 65.7,
+                      "sector_breakdown": {
+                        "Energy": 13.7,
+                        "Industrials": 10.2,
+                        "Consumer Discretionary": 7.4
+                      }
+                    },
+                    "key_findings": [
+                      "Outperformed benchmarks by 3.39% over the past 6 months.",
+                      "Exited several underperforming positions such as Bank of America and Legg Mason.",
+                      "Retained cash positions to weather market volatility and find new investment opportunities.",
+                      "Focused on consumer discretionary, information technology, and energy sectors."
+                    ],
+                    "strategic_decisions": [
+                      "Implemented stop-loss orders to protect from further downside risk.",
+                      "Shifted focus to defensive-oriented value stocks in anticipation of further market instability.",
+                      "Maintained a high cash position to capitalize on market opportunities when conditions improved."
+                    ],
+                    "comparisons": "Despite a difficult market environment, the Fund outperformed its blended benchmark, which was down 4.78%, while the Growth Fund and Small Cap Fund had negative returns.",
+                    "graphs_data": {
+                      "performance": {
+                        "metrics": ["6 Month Return", "1 Year Return"],
+                        "values": [-2.15, "No data"]
+                      },
+                      "sector_allocation": {
+                        "labels": ["Energy", "Industrials", "Consumer Discretionary"],
+                        "values": [13.7, 10.2, 7.4]
+                      }
+                    }
+                  },
+                  "Fall": {
+                    "summary": "During Fall 2008, the Fund experienced significant losses due to ongoing market turbulence. Despite a reduction in asset allocation, the Fund's performance was negatively impacted by the global financial crisis. The report also highlights the success of its stop-loss policy and its shift towards more defensive stock selections.",
+                    "performance_metrics": {
+                      "6_month_return": -3.15,
+                      "1_year_return": "No data",
+                      "AUM": 2000000,
+                      "dividend": "No data"
+                    },
+                    "asset_allocation": {
+                      "equity_percent": "No data",
+                      "fixed_income_percent": "No data",
+                      "cash_percent": 65.7,
+                      "sector_breakdown": {
+                        "Energy": 13.7,
+                        "Industrials": 10.2,
+                        "Consumer Discretionary": 7.4
+                      }
+                    },
+                    "key_findings": [
+                      "The Fund was heavily impacted by market downturns, with a -3.15% return for the period.",
+                      "The stop-loss policy successfully helped avoid further downside during the volatile summer months.",
+                      "The Fund held a significant cash position (65.7%) during the period, allowing flexibility for future investments."
+                    ],
+                    "strategic_decisions": [
+                      "Maintained a high cash position to avoid further losses during the market downturn.",
+                      "Implemented stop-loss orders to mitigate risk during periods of high volatility.",
+                      "Focused on defensive sectors such as Energy and Industrials to hedge against market downturns."
+                    ],
+                    "comparisons": "Despite facing a challenging market environment, the Fund outperformed its benchmarks and managed to mitigate some of the losses with strategic decisions like maintaining high cash reserves.",
+                    "graphs_data": {
+                      "performance": {
+                        "metrics": ["6 Month Return", "1 Year Return"],
+                        "values": [-3.15, "No data"]
+                      },
+                      "sector_allocation": {
+                        "labels": ["Energy", "Industrials", "Consumer Discretionary"],
+                        "values": [13.7, 10.2, 7.4]
+                      }
+                    }
+                  }
+                },
+                  "2009": {
+                    "Spring": {
+                      "summary": "Over the six‑month period ending February 28, 2009, MPSIF lost 22.1% net of fees against a 34.3% benchmark loss, with assets under management declining to $1.36 million. :contentReference[oaicite:0]{index=0}",
+                      "performance_metrics": {
+                        "6_month_return": -22.18,
+                        "1_year_return": "No data",
+                        "AUM": 1360000,
+                        "dividend": "5% annual distribution"
+                      },
+                      "asset_allocation": {
+                        "equity_percent": "No data",
+                        "fixed_income_percent": "No data",
+                        "cash_percent": "No data",
+                        "sector_breakdown": {}
+                      },
+                      "key_findings": [
+                        "Net return of -22.18% exceeded the blended benchmark by over 1,200 bps. :contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}",
+                        "Assets under management fell to $1.36 M, the lowest level in the Fund’s nine‑year history. :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}",
+                        "Equity sub‑funds outperformed despite severe market volatility. :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}"
+                      ],
+                      "strategic_decisions": [],
+                      "comparisons": "MPSIF (−22.18%) versus blended benchmark (−34.29%) demonstrates the Fund’s resilience. :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}",
+                      "graphs_data": {
+                        "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+                        "values": [-22.18, "No data", 1360000]
+                      }
+                    },
+                    "Fall": {
+                      "summary": "The annual report for the year ending August 31, 2009 marks MPSIF’s 10th anniversary, with assets under management of $1.5 million and nearly $827 K in cumulative distributions. :contentReference[oaicite:9]{index=9}",
+                      "performance_metrics": {
+                        "6_month_return": "No data",
+                        "1_year_return": "No data",
+                        "AUM": 1500000,
+                        "dividend": "5% annual distribution"
+                      },
+                      "asset_allocation": {
+                        "equity_percent": "No data",
+                        "fixed_income_percent": "No data",
+                        "cash_percent": "No data",
+                        "sector_breakdown": {}
+                      },
+                      "key_findings": [
+                        "Fund celebrated its 10th anniversary with cumulative distributions of nearly $827 K to the University of Oklahoma. :contentReference[oaicite:10]{index=10}&#8203;:contentReference[oaicite:11]{index=11}",
+                        "Assets under management increased to $1.5 M. :contentReference[oaicite:12]{index=12}&#8203;:contentReference[oaicite:13]{index=13}",
+                        "Continues to provide hands‑on asset‑management experience under Faculty Advisor’s guidance. :contentReference[oaicite:14]{index=14}&#8203;:contentReference[oaicite:15]{index=15}"
+                      ],
+                      "strategic_decisions": [],
+                      "comparisons": "No data",
+                      "graphs_data": {
+                        "metrics": ["6 Month Return", "1 Year Return", "AUM"],
+                        "values": ["No data", "No data", 1500000]
+                      }
+                    }
+                  }
+                
+                
+              
+              
+            
+            
+          
+          
+        
+      
+    
+  
+}
