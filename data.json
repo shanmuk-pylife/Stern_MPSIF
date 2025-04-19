@@ -1813,31 +1813,7 @@
         "Enhance analytics to better understand performance discrepancies among sub‐funds.",
         "Continue targeted rebalancing to optimize sector exposures."
       ],
-      "comparisons": "Spring 2023 reflects a cautious environment with strong value performance and challenges in the Growth sub‐fund.",
-      "graphs_data": {
-        "performance": {
-          "metrics": ["6 Month", "1 Year"],
-          "values": [7.82, 10.14]
-        },
-        "sector_allocation": {
-          "labels": [
-            "Information Technology",
-            "Communication Services",
-            "Consumer Discretionary",
-            "Financials",
-            "Consumer Staples",
-            "Energy",
-            "Materials",
-            "Real Estate",
-            "Utilities"
-          ],
-          "values": [40, 20, 15, 5, 5, 4, 3, 4, 4]
-        },
-        "heatmap": {
-          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
-          "Spring": [7.82, 10.14, 2460000],
-          "Fall": []
-        }
+      "comparisons": "Spring 2023 reflects a cautious environment with strong value performance and challenges in the Growth sub‐fund."
       }
     },
     "Fall": {
@@ -1874,33 +1850,7 @@
         "Adjust growth strategies to better align with benchmarks.",
         "Optimize fixed income allocation to safeguard against downturns."
       ],
-      "comparisons": "Fall 2023 maintains the trends of Spring 2023 with solid Value performance and a continued need to improve Growth outcomes.",
-      "graphs_data": {
-        "performance": {
-          "metrics": ["6 Month", "1 Year"],
-          "values": [7.50, 10.00]
-        },
-        "sector_allocation": {
-          "labels": [
-            "Information Technology",
-            "Communication Services",
-            "Consumer Discretionary",
-            "Financials",
-            "Consumer Staples",
-            "Energy",
-            "Materials",
-            "Real Estate",
-            "Utilities"
-          ],
-          "values": [40, 20, 15, 5, 5, 4, 3, 4, 4]
-        },
-        "heatmap": {
-          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
-          "Spring": [7.82, 10.14, 2460000],
-          "Fall": [7.50, 10.00, 2460000]
-        }
-      }
-    }
+      "comparisons": "Fall 2023 maintains the trends of Spring 2023 with solid Value performance and a continued need to improve Growth outcomes."
   },
   "2024": {
     "Spring": {
@@ -1939,32 +1889,7 @@
         "Exited weak-performing positions to reallocate capital to high-quality, low-debt companies.",
         "Enhanced Fixed Income strategy by raising floating-rate holdings."
       ],
-      "comparisons": "Spring 2024 exhibits strong operational practices and notable outperformance in Value, though Growth lagged behind benchmark performance.",
-      "graphs_data": {
-        "performance": {
-          "metrics": ["6 Month", "1 Year"],
-          "values": [11.16, 19.85]
-        },
-        "sector_allocation": {
-          "labels": [
-            "Information Technology",
-            "Communication Services",
-            "Consumer Discretionary",
-            "Financials",
-            "Consumer Staples",
-            "Energy",
-            "Materials",
-            "Real Estate",
-            "Utilities"
-          ],
-          "values": [39, 21, 20, 3, 3, 3, 3, 4, 4]
-        },
-        "heatmap": {
-          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
-          "Spring": [11.16, 19.85, 2740000],
-          "Fall": [9.50, 21.70, 2843000]
-        }
-      }
+      "comparisons": "Spring 2024 exhibits strong operational practices and notable outperformance in Value, though Growth lagged behind benchmark performance."
     },
     "Fall": {
       "summary": "Fall 2024 Summary: For the first time, AUM surpassed $3 million, reaching approximately $2.84 million after dividend payouts. The Fund achieved a six‑month return of 9.50% versus a benchmark of 9.56%, a minor underperformance of 6 bps. Sub‐fund performance varied, with Fixed Income and ESG outperforming their benchmarks while the Growth sub‐fund underperformed by 4.05 percentage points. The report underscores continued operational improvements and strategic adjustments amid volatility.",
@@ -2002,32 +1927,7 @@
         "Enhance the ESG fund framework to incorporate thematic investing in AI and Energy Transition.",
         "Continue refinement of investment processes and administrative support."
       ],
-      "comparisons": "Fall 2024 shows the Fund reaching a new milestone with diversified sub‐fund performance and a slight underperformance relative to benchmarks.",
-      "graphs_data": {
-        "performance": {
-          "metrics": ["6 Month", "1 Year"],
-          "values": [9.50, 21.70]
-        },
-        "sector_allocation": {
-          "labels": [
-            "Information Technology",
-            "Communication Services",
-            "Consumer Discretionary",
-            "Financials",
-            "Consumer Staples",
-            "Energy",
-            "Materials",
-            "Real Estate",
-            "Utilities"
-          ],
-          "values": [39, 21, 20, 3, 3, 3, 3, 4, 4]
-        },
-        "heatmap": {
-          "metrics": ["6 Month Return", "1 Year Return", "AUM"],
-          "Spring": [11.16, 19.85, 2740000],
-          "Fall": [9.50, 21.70, 2843000]
-        }
-      }
+      "comparisons": "Fall 2024 shows the Fund reaching a new milestone with diversified sub‐fund performance and a slight underperformance relative to benchmarks."
     }
   }
 }

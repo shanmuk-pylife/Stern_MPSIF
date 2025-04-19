@@ -1,0 +1,90 @@
+{
+  "2001": {
+    "Spring": null,
+    "Fall": {
+      "summary": "In its first year (March 1, 2000–February 28, 2001), MPSIF’s total market value grew from $1,800,000 to $1,913,700, delivering a 12‑month total return of 6.3% and outperforming major indices despite a volatile market environment. The report also highlights the formation of Fixed Income, Risk Management, and Marketing committees and the launch of a promotional plan to raise the Fund’s visibility.",
+      "performance_metrics": {
+        "6_month_return": null,
+        "1_year_return": 6.3,
+        "AUM": 1913700,
+        "dividend": 95685
+      },
+      "asset_allocation": null,
+      "key_findings": [
+        "Total market value increased from $1,800,000 to $1,913,700",
+        "12‑month total return of 6.3%, outpacing Nasdaq (–55.02%), S&P 500 (–9.87%), and DJIA (+3.53%)",
+        "Sub‑fund returns: Growth & Income –8.4%, Small Cap 9.1%, Value 18.3%",
+        "Maintained a cash reserve to cushion against market downturns",
+        "Created Fixed Income, Risk Management, and Marketing committees"
+      ],
+      "strategic_decisions": [
+        "Invest remaining proceeds to achieve full deployment of capital",
+        "Enhance Fund visibility through a promotional plan with Stern Public Affairs",
+        "Establish Fixed Income, Risk Management, and Marketing committees"
+      ],
+      "comparisons": "Fall 2001 demonstrated strong inaugural performance with returns well above benchmarks and established foundational governance structures for future stability."
+    }
+  },
+    "2002": {
+      "Spring": {
+        "summary": "In fiscal 2002 (September 1, 2001–August 31, 2002), MPSIF delivered a 12‑month return of –9.94% versus a blended benchmark return of –11.42%, outperforming by 149 bps. Assets under management stood at $1,619,553, and the annual 5% distribution to the Price College totaled $97,343. Key governance initiatives—including separating Fixed Income into its own fund, centralizing management, conducting a self‑audit, launching marketing and alumni outreach, and publishing the MPSIF handbook—were implemented.",
+        "performance_metrics": {
+          "6_month_return": -1.65,
+          "1_year_return": -9.94,
+          "AUM": 1619553,
+          "dividend": 97343
+        },
+        "asset_allocation": {
+          "equity_percent": 64.1,
+          "fixed_income_percent": 28.4,
+          "cash_percent": 7.5
+        },
+        "key_findings": [
+          "Outperformed blended benchmark by 149 bps (–9.94% vs –11.42%) over the year",
+          "Ended with $1,619,553 in assets (Equity 64.1%, Fixed Income 28.4%, Cash 7.5%)",
+          "Implemented separation of Fixed Income into its own fund effective May 1, 2002",
+          "Undertook the first annual self‑audit and peer review of financial statements",
+          "Launched marketing brochure, expanded alumni outreach, and released the MPSIF handbook"
+        ],
+        "strategic_decisions": [
+          "Separate Fixed Income into an independent fund with dedicated staff",
+          "Increase centralization of investment management and set risk targets",
+          "Conduct annual self‑audit and peer review of all trades",
+          "Initiate marketing campaign and alumni outreach to raise the Fund’s profile",
+          "Publish a handbook codifying policies, procedures, and best practices"
+        ],
+        "comparisons": "Fiscal 2002 demonstrates MPSIF’s ability to outperform its benchmark while establishing robust governance and risk‑management frameworks."
+      },
+      "Fall": {
+        "summary": "For the six months ended February 28, 2002, MPSIF returned –1.0% on total assets versus –1.7% for the blended benchmark. The Russell 3000 fell by –2.1% and the Fixed Income proxy by –0.6%. Over two years since inception, the portfolio gained 4.3% net of the 5% annual distribution.",
+        "performance_metrics": {
+          "6_month_return": -1.0,
+          "1_year_return": null,
+          "AUM": 1876498,
+          "dividend": null
+        },
+        "asset_allocation": {
+          "equity_percent": 58.0,
+          "fixed_income_percent": 25.0,
+          "cash_percent": 17.0
+        },
+        "key_findings": [
+          "Six‑month return of –1.0% versus benchmark –1.7%",
+          "Russell 3000 down –2.1%; Fixed Income proxy down –0.6%",
+          "Two‑year net‑of‑distribution return of 4.3% since inception",
+          "Achieved a six‑month alpha of 0.06 and beta of 1.08 net of the distribution",
+          "Laid groundwork for governance by separating Fixed Income and centralizing operations"
+        ],
+        "strategic_decisions": [
+          "Separate Fixed Income from equity into its own fund effective May 1, 2002",
+          "Centralize portfolio management and establish risk‑target committees",
+          "Undertake the first self‑audit to verify transaction history",
+          "Implement semi‑annual rebalancing based on market outlook and operational needs",
+          "Draft and publish a tri‑fold marketing brochure to raise the Fund’s profile"
+        ],
+        "comparisons": "First half of fiscal 2002 results show resilience in volatile markets, with modest outperformance net of payments and the formation of foundational governance structures."
+      }
+    }
+  
+  
+}
